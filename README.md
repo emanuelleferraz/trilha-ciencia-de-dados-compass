@@ -12,8 +12,8 @@ Hobbies:
  - 📖 Gosto de ler, principalmente conteúdos de fantasia.
  - 💻 Tento manter o aprendizado constante em áreas como desenvolvimento de software e tecnologias emergentes.
 
- ### Video de Apresentação
-
+### Video de Apresentação
+ Assista ao [vídeo](Apresentação-Compass.mp4) para conhecer mais sobre mim!
 
 ## Sprints - Entregas
 
