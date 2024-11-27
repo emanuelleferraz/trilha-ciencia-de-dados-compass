@@ -13,7 +13,7 @@ Hobbies:
  - 💻 Tento manter o aprendizado constante em áreas como desenvolvimento de software e tecnologias emergentes.
 
 ### Video de Apresentação
- Assista ao [vídeo](Apresentação-Compass.mp4) para conhecer mais sobre mim!
+ Assista ao [vídeo](Apresentação-Compass.mp4) para conhecer mais sobre mim! 😊
 
 ## Sprints - Entregas
 
@@ -25,3 +25,4 @@ Hobbies:
 
 - **Metodologia Ágil com foco no Scrum**: Aprendi os principais conceitos e práticas, como os papéis (Scrum Master, Product Owner e Time de Desenvolvimento), eventos (Daily, Sprint Review, Sprint Retrospective, etc.) e artefatos (Product Backlog, Sprint Backlog e Incremento).
 - **Git e GitHub**: Aprendi os principais comandos git, como `init`, `add`, `commit`, `status`, `push`, `pull` e etc. Além de outros comandos para realizar alterações e conceitos de branch e merge. Ademais, foi ensinado como usar o GitHub para versionamento de código e colaboração em equipe.
+- **Curso de Python**: 
