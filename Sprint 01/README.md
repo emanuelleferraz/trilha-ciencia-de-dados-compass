@@ -79,5 +79,22 @@ O curso de Pandas abordou os seguintes tópicos:
    📸 Exemplo de um dos gráficos criados:  
    ![Evidência Pandas - Gráficos](./evidencias/curso%20pandas/grafico.png)
 
+   No curso de Pandas em questão, achei interessante inserir na pasta de evidências os [códigos](./evidencias/curso%20pandas/codigos-fonte) fontes das aulas para um maior entendimento do que foi feito.
+
+## 🏆 Certificados
+Segue abaixo os certificados obtidos nos cursos da Sprint 01:
+
+1. **Introdução**
+![Certificado 1](./certificados/Certificado%20-%20Introdução.jpg)  
+
+2. **Git e GitHub**
+![Certificado 2](./certificados/Certificado%20-%20Git%20e%20GitHub.jpg)
+
+3. **Curso Python do Zero ao Avançado**
+![Certificado 3](./certificados/Certificado%20-%20Curso%20Python%20Zero%20ao%20Avançado.jpg)  
+
+4. **Curso Pandas Descomplicado**
+![Certificado 4](./certificados/Certificado%20-%20Curso%20Pandas%20Descomplicado.jpg)
+
 
 
