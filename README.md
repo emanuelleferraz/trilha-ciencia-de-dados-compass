@@ -2,9 +2,22 @@
 
 ## 👩‍💻 Apresentação
 
-Olá, meu nome é Emanuelle Ferraz e sou residente de João Monlevade, MG. Atualmente, estou cursando o 6º período de **Sistemas de Informação** na **Universidade Federal de Ouro Preto (UFOP)**.
+Olá! Meu nome é **Emanuelle Ferraz**, natural de **Santo Antônio do Jacinto-MG** e atualmente residente em **João Monlevade-MG**. Estou cursando o 6º período de **Sistemas de Informação** na **Universidade Federal de Ouro Preto (UFOP)**, onde tenho desenvolvido minha paixão pela área de tecnologia.
 
-Tenho experiência em projetos acadêmicos, como o desenvolvimento de correções de páginas voltadas para **Acessibilidade Web**, seguindo diretrizes como WCAG e e-MAG. Além disso, já trabalhei em diversos **projetos pessoais**, que envolvem desde o uso de tecnologias front-end, como HTML, CSS e JavaScript, até back-end, utilizando Node.js, Python, PHP e frameworks como Flask e Laravel, além de integração com APIs.
+
+### 🎓 Experiências Acadêmicas
+
+Participei de projetos acadêmicos focados em contribuir com a comunidade, sendo um projeto de extensão e outro de desenvolvimento institucional, como:
+ - **Projeto de Acessibilidade Web**, contribuindo com correções e melhorias de páginas (HTML) da UFOP para torná-las mais acessíveis.  
+    - Segui diretrizes renomadas como **WCAG** (Web Content Accessibility Guidelines) e **e-MAG** (Modelo de Acessibilidade em Governo  Eletrônico), aplicando os padrões para garantir inclusão digital.
+ - **Projeto de Extensão Bom de Bola, Bom na Escola**: Atuei promovendo o acesso a oportunidades esportivas para a comunidade de **João Monlevade**, com foco no público infantil e juvenil. Além disso, participei do acompanhamento do desempenho escolar dos participantes, incentivando o equilíbrio entre estudos e esportes.
+
+### 💻 Experiências Pessoais
+
+ - Desenvolvi diversos projetos pessoais que abrangem tecnologias **front-end**, como **HTML**, **CSS** e **JavaScript**.  
+ - No **back-end**, utilizei linguagens como **Node.js**, **Python** e **PHP**, além de frameworks como **Flask** e **Laravel**.  
+ - Integrei APIs em aplicações para criar soluções completas e funcionais.
+
 
 Hobbies:
  - ⚽ Praticar, assistir e jogar futebol.
@@ -17,7 +30,7 @@ Hobbies:
 
 ## Sprints - Entregas
 
-1. [Sprint 1](Sprint%201/README.md)
+1. [Sprint 1](./Sprint%2001/README.md)
 
 ## 📚 Conteúdo de Aprendizado
  ### Sprint 1
@@ -36,5 +49,17 @@ Hobbies:
 | Seção 5   | Funções e Tratamento de Exceções                   | Escopo de funções, funções especiais (`map()`, `filter()`, `reduce()`), recursividade e tratamento de erros. |
 | Seção 6   | Recursos Avançados                                 | Manipulação de arquivos de texto e CSV, compreensão de listas, módulo `os` e introdução à Programação Orientada a Objetos. |
 | Seção 7   | Visualização de Dados com Matplotlib               | Criação de gráficos como `plot`, `bar` e `pie` usando a biblioteca Matplotlib. |
-
 </div>
+
+- **Curso de Pandas**: Durante este curso, explorei as funcionalidades da biblioteca Pandas para manipulação e análise de dados, abordando desde conceitos básicos até técnicas mais avançadas. O aprendizado foi dividido em três seções principais:
+
+  - **Seção 1: Series**  
+    - Criação de Series, Fatiamento de Series, Acesso com `loc` e `iloc`, Ordenação, Agrupamento, Concatenação, Contagem, Filtros, Operações Matemáticas, Operações com String, Tratamento de Valores Faltantes e Aplicação de Funções.
+
+  - **Seção 2: DataFrame**  
+    - Criação de DataFrames, Acesso com `loc` e `iloc`, Exploração de DataFrames, Remoção de Linhas e Colunas, Tratamento de Linhas Duplicadas, Valores Faltantes, Ordenação, Filtragem, Renomeação e Reordenação de Colunas, Criação de Novas Colunas, Trabalhando com Colunas Categóricas, Agregação, Agrupamento, Tabelas Pivot, Junção de DataFrames e Conversão para Data.
+
+  - **Seção 3: Gráficos**  
+    - Utilizando a integração com **Matplotlib**, criei diferentes tipos de gráficos, como: Barra, Pizza, Linha, Subplots, Dispersão e Histogramas.
+
+ ### Sprint 2
