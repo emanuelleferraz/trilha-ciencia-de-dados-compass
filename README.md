@@ -63,7 +63,7 @@ Hobbies:
     - Utilizando a integração com **Matplotlib**, criei diferentes tipos de gráficos, como: Barra, Pizza, Linha, Subplots, Dispersão e Histogramas.
 
  ### Sprint 2
- Durante a Sprint 0, foram explorados os seguintes conteúdos:
+ Durante a Sprint 02, foram explorados os seguintes conteúdos:
 
  - **Curso de SQL para Análise de Dados**: Neste curso, aprendi desde os comandos básicos para consultas, como `SELECT`, `FROM`, `WHERE`, até conteúdos avançados, como *joins*, *subqueries*, *tratamento de dados* e *funções de agregação*. Segue o resumo dos conteúdos aprendidos divididos por seção:
 

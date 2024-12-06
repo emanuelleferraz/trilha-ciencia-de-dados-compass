@@ -29,7 +29,7 @@ Durante o curso de SQL, os exercícios foram dividos em:
 # 📂 Evidências
 
 ### Curso de SQL para Análise de Dados
-Neste curso, foram ensinados os principais comandos e consultas quando se trabalha com um database. Dado que foram feitos bastante exercícios durante cada seção do curso, achei interessante inserir como evidência consultas e resultados dos dois projetos que constam ao final do curso.
+Neste curso, foram ensinados os principais comandos e consultas quando se trabalha com um database. Dado que foram feitos bastante exercícios durante cada seção do curso, achei interessante inserir como evidência consultas e resultados dos dois projetos que constam ao final do curso. Os dois projetos foram desenvolvidos utilizando a linguagem de consulta SQL e o Excel para criação dos gráficos.
 
 1. **Projeto 1: Dashboard de Vendas**:
     Execução da Query 1 referente a receita, leads, conversão e ticket médio mês a mês:
