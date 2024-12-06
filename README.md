@@ -34,12 +34,12 @@ Hobbies:
 
 ## 📚 Conteúdo de Aprendizado
  ### Sprint 1
- Durante a Sprint 01, explorei os seguintes conteúdos:
+ Durante a Sprint 01, foram explorados os seguintes conteúdos:
 
 - **Metodologia Ágil com foco no Scrum**: Aprendi os principais conceitos e práticas, como os papéis (Scrum Master, Product Owner e Time de Desenvolvimento), eventos (Daily, Sprint Review, Sprint Retrospective, etc.) e artefatos (Product Backlog, Sprint Backlog e Incremento).
 - **Git e GitHub**: Aprendi os principais comandos git, como `init`, `add`, `commit`, `status`, `push`, `pull` e etc. Além de outros comandos para realizar alterações e conceitos de branch e merge. Ademais, foi ensinado como usar o GitHub para versionamento de código e colaboração em equipe.
-- **Curso de Python**: Durante este curso, aprendi desde os fundamentos como tipos de dados e variáveis até conceitos avançados da linguagem como poo, funções avançadas, manipulação de arquivos e gráficos. Segue o resumo dos conteúdos aprendidos divididos por seção.
-<div style="font-size: 12px;">
+- **Curso de Python**: Durante este curso, aprendi desde os fundamentos como tipos de dados e variáveis até conceitos avançados da linguagem como poo, funções avançadas, manipulação de arquivos e gráficos. Segue o resumo dos conteúdos aprendidos divididos por seção:
+
   
 | **Seção** | **Conteúdo Aprendido**                              | **Descrição Resumida**                                            |
 |-----------|-----------------------------------------------------|-------------------------------------------------------------------|
@@ -49,7 +49,7 @@ Hobbies:
 | Seção 5   | Funções e Tratamento de Exceções                   | Escopo de funções, funções especiais (`map()`, `filter()`, `reduce()`), recursividade e tratamento de erros. |
 | Seção 6   | Recursos Avançados                                 | Manipulação de arquivos de texto e CSV, compreensão de listas, módulo `os` e introdução à Programação Orientada a Objetos. |
 | Seção 7   | Visualização de Dados com Matplotlib               | Criação de gráficos como `plot`, `bar` e `pie` usando a biblioteca Matplotlib. |
-</div>
+
 
 - **Curso de Pandas**: Durante este curso, explorei as funcionalidades da biblioteca Pandas para manipulação e análise de dados, abordando desde conceitos básicos até técnicas mais avançadas. O aprendizado foi dividido em três seções principais:
 
@@ -63,3 +63,18 @@ Hobbies:
     - Utilizando a integração com **Matplotlib**, criei diferentes tipos de gráficos, como: Barra, Pizza, Linha, Subplots, Dispersão e Histogramas.
 
  ### Sprint 2
+ Durante a Sprint 0, foram explorados os seguintes conteúdos:
+
+ - **Curso de SQL para Análise de Dados**: Neste curso, aprendi desde os comandos básicos para consultas, como `SELECT`, `FROM`, `WHERE`, até conteúdos avançados, como *joins*, *subqueries*, *tratamento de dados* e *funções de agregação*. Segue o resumo dos conteúdos aprendidos divididos por seção:
+
+ | **Seção** | **Conteúdo Aprendido**                              | **Descrição Resumida**                                            |
+|-----------|-----------------------------------------------------|-------------------------------------------------------------------|
+| Seção 02  | Configuração do Ambiente                            | Instalação do PostgreSQL e criação do banco de dados.            |
+| Seção 03  | Comandos Básicos                                    | Comandos fundamentais como `SELECT`, `FROM`, `WHERE`, `DISTINCT`, `LIMIT` e `ORDER BY`. |
+| Seção 04  | Operadores Aritméticos, Lógicos e de Comparação     | **Aritméticos**: `+`, `-`, `*`, `/`, `%`. **Comparação**: `=`, `<>`, `>`, `<`, `>=`, `<=`. **Lógicos**: `AND`, `OR`, `NOT`, `BETWEEN`, `LIKE`, `ILIKE`, `IS NULL`. |
+| Seção 05  | Funções de Agregação                                | Funções como `MIN`, `MAX`, `AVG`, `COUNT`, `SUM`, além de `GROUP BY` e `HAVING`. |
+| Seção 06  | Joins                                               | Tipos de *joins*: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`. |
+| Seção 07  | Union                                               | Combinações de conjuntos de dados com `UNION` e `UNION ALL`.     |
+| Seção 08  | Subqueries                                          | Subqueries aplicadas em diferentes contextos: no `WHERE`, com `WITH`, no `FROM` e no `SELECT`. |
+| Seção 09  | Tratamento de Dados                                 | **Conversões**: com operador `::` ou `CAST`. **Gerais**: `CASE WHEN`, `COALESCE`. **Texto**: `UPPER`, `LOWER`, `TRIM`, `REPLACE`. **Datas**: `INTERVAL`, `DATE_TRUNC`, `EXTRACT`, funções personalizadas como `DATEDIFF`. |
+| Seção 10  | Manipulação de Tabelas                              | **Tabelas**: `CREATE TABLE`, `CREATE TABLE AS` (a partir de query), `DROP TABLE`. **Linhas**: `INSERT INTO VALUES`, `DELETE`, `UPDATE SET`. **Colunas**: `ALTER TABLE`, `UPDATE SET` e `DELETE`. |
