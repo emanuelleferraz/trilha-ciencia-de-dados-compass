@@ -57,7 +57,7 @@ Neste curso, foram ensinados os principais comandos e consultas quando se trabal
     <img src="../Sprint 02/evidencias/curso sql/graficos3.png" alt="Gráficos gerados pelas Queries 3, 4, 5" width="600">
     </p>
 
-2. **Projeto 1: Análise de Perfil dos Clientes**:
+2. **Projeto 2: Análise de Perfil dos Clientes**:
     Execução das Queries 1, 2 e 3:
     <p align="center">
     <img src="../Sprint 02/evidencias/curso sql/query6.png" alt="Query 1" width="300">
