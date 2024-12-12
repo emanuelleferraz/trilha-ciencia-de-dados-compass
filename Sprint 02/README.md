@@ -26,6 +26,24 @@ Durante o curso de SQL, os exercícios foram dividos em:
 
     ➡️ Confira o [exercício](./exercicios/curso%20sql/exercicio-subqueries.sql).
 
+### Curso de Estatística para Análise de Dados com Python
+Durante o curso, não foram realizados diretamente exercícios, dessa forma, achei interessante fazer o upload dos arquivos notebooks referentes as aulas. Segue abaixo os arquivos divididos pela seção do curso:
+
+1. **Seção 3: Preparação, organização e estruturação dos dados**:
+
+    ➡️ Confira o [notebook](./exercicios/curso%20estatistica/estruturacao-dados.ipynb).
+
+2. **Seção 4: Fundamentos de Estatística**:
+
+    ➡️ Confira o notebook de [amostragem](./exercicios/curso%20estatistica/amostragem.ipynb).
+
+    ➡️ Confira o notebook de [distribuição de frequência](./exercicios/curso%20estatistica/distribuicao-frequencia.ipynb).
+
+    ➡️ Confira o notebook de [medidas centrais](./exercicios/curso%20estatistica/medidas-centrais.ipynb).
+
+    ➡️ Confira o notebook de [medidas de dispersão e de posição](./exercicios/curso%20estatistica/medidas-dispersao-posicao.ipynb).
+
+
 # 📂 Evidências
 
 ### Curso de SQL para Análise de Dados
