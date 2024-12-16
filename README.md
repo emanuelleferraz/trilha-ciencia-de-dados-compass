@@ -78,3 +78,105 @@ Hobbies:
 | Seção 08  | Subqueries                                          | Subqueries aplicadas em diferentes contextos: no `WHERE`, com `WITH`, no `FROM` e no `SELECT`. |
 | Seção 09  | Tratamento de Dados                                 | **Conversões**: com operador `::` ou `CAST`. **Gerais**: `CASE WHEN`, `COALESCE`. **Texto**: `UPPER`, `LOWER`, `TRIM`, `REPLACE`. **Datas**: `INTERVAL`, `DATE_TRUNC`, `EXTRACT`, funções personalizadas como `DATEDIFF`. |
 | Seção 10  | Manipulação de Tabelas                              | **Tabelas**: `CREATE TABLE`, `CREATE TABLE AS` (a partir de query), `DROP TABLE`. **Linhas**: `INSERT INTO VALUES`, `DELETE`, `UPDATE SET`. **Colunas**: `ALTER TABLE`, `UPDATE SET` e `DELETE`. |
+
+- **Estatística para Análise de Dados**: Nesse curso foram ensinados todos os conceitos estatísticos necessários para realizar análises de dados. Desde conceitos fundamentais da estatística (medidas centrais) até conceitos probabilísticos.
+
+
+- Seção 3: Preparação, Organização e Estruturação dos Dados  
+  - Tratamento e organização dos dados do ENEM 2019 no estado de São Paulo.  
+  - Utilização de **Jupyter Notebook** e **Pandas** para:  
+    - Limpeza e tratamento de dados.  
+    - Exportação do dataset tratado para análise.  
+
+
+- Seção 4: Fundamentos de Estatística  
+  - **Conceitos gerais** de Estatística e Amostragem:  
+    - Amostragem Simples, Estratificada e Sistemática.  
+  - **Distribuição de Frequências**:  
+    - Construção de tabelas, histogramas e análise visual dos dados.  
+  - **Medidas de Tendência Central**:  
+    - Média, Mediana e Moda.  
+    - **Fórmulas**:  
+      - **Média**:  
+        \[
+        \bar{x} = \frac{\sum_{i=1}^{n} x_i}{n}
+        \]  
+      - **Mediana**:  
+        - Ordenar os dados.  
+        - Caso \( n \) seja ímpar:  
+          \[
+          \text{Mediana} = x_{(n+1)/2}
+          \]  
+        - Caso \( n \) seja par:  
+          \[
+          \text{Mediana} = \frac{x_{(n/2)} + x_{(n/2 + 1)}}{2}
+          \]  
+      - **Moda**:  
+        - O valor mais frequente no conjunto de dados.  
+
+  - **Medidas de Dispersão e Posição**:  
+    - Variância, Desvio Padrão, Intervalo Interquartil (IQR) e Quartis.  
+    - **Fórmulas**:  
+      - **Variância (populacional)**:  
+        \[
+        \sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n}
+        \]  
+      - **Variância (amostral)**:  
+        \[
+        s^2 = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n - 1}
+        \]  
+      - **Desvio Padrão (populacional)**:  
+        \[
+        \sigma = \sqrt{\frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n}}
+        \]  
+      - **Desvio Padrão (amostral)**:  
+        \[
+        s = \sqrt{\frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n - 1}}
+        \]  
+      - **IQR (Intervalo Interquartil)**:  
+        \[
+        IQR = Q3 - Q1
+        \]  
+      - **Quartis**:  
+        - \( Q1 \): 25% dos dados.  
+        - \( Q2 \): Mediana.  
+        - \( Q3 \): 75% dos dados.  
+      - **Limite Inferior e Superior** (detecção de outliers):  
+        \[
+        \text{Limite Inferior} = Q1 - 1.5 \times IQR
+        \]  
+        \[
+        \text{Limite Superior} = Q3 + 1.5 \times IQR
+        \]  
+
+  - **Análise de Outliers**:  
+    - Utilização de gráficos como Boxplot.  
+
+
+- Seção 5: Estatística Probabilística para Análise de Dados  
+  - **Probabilidade**:  
+    - Conceitos de eventos e espaço amostral.  
+  - **Teorema de Bayes**:  
+    - Fórmula:  
+      \[
+      P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
+      \]  
+  - **Probabilidade da União, Intersecção e Condicional**.  
+  - **Distribuição de Probabilidades**:  
+    - Discreta e Contínua.  
+  - **Teste de Normalidade**:  
+    - Verificação de conformidade com a distribuição normal.  
+
+
+- Seção 6: Testes Paramétricos e Não Paramétricos  
+  - **Intervalo de Confiança**:  
+    - Estimativa de parâmetros com base nos dados.  
+  - **Distribuições t e Qui-Quadrado**.  
+  - **Testes de Hipóteses**:  
+    - Teste Z.  
+    - Teste t para duas amostras independentes (**Teste T de Student**).  
+  - **Testes Não Paramétricos**:  
+    - Teste Mann-Whitney.  
+    - Teste de Wilcoxon.  
+  - **Correlação Linear e Regressão Linear**:  
+    - Relações entre variáveis e modelagem preditiva.  
