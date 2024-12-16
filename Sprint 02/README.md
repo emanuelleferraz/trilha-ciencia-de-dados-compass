@@ -57,7 +57,7 @@ Durante o curso, não foram realizados diretamente exercícios, dessa forma, ach
 
     ➡️ Confira o notebook de [teste de hipoteses t](./exercicios/curso%20estatistica/teste-hipoteses-t.ipynb).
 
-    ➡️ Confira o notebook de [correlação linear e regressão linear](./exercicios/curso%20estatistica/correlacao-regressao.ipynb).
+    ➡️ Confira o notebook de [correlação linear e regressão linear](./exercicios/curso%20estatistica/correlacao_regressao.ipynb).
 
 
 # 📂 Evidências
@@ -117,3 +117,62 @@ Neste curso, foram ensinados os principais comandos e consultas quando se trabal
     <img src="../Sprint 02/evidencias/curso sql/grafico6.png" alt="Gráficos gerados pelas Query 7" width="300">
     </p>
 
+### Curso de Estatística para Análise de Dados
+
+Nesse curso, foram apresentados desde conceitos sobre **tratamento de dados no Jupyter Notebook com Pandas**, até **fundamentos de estatística** e **estatística probabilística**, finalizando com **estatística inferencial**. Para as práticas, foi utilizado o dataset do ENEM 2019 referente ao estado de São Paulo. 
+
+- **Tratamento dos Dados**  
+  - É importante identificar quais colunas são realmente relevantes para sua análise. No curso, algumas colunas do dataset foram removidas por não trazerem informações úteis para os objetivos definidos. Isso também serve para outros conjuntos de dados presentes no dataset.
+  ![Dropando Colunas](./evidencias/curso%20estatistica/evidencia1.png)
+
+
+  - Além disso, também foram tratados os dados do conjunto, como filtragem de treineiros (importação de um arquivo só de treineiros), filtragem de participantes maiores de 11 anos, correção dos valores das notas e etc. É importante perceber esses pequenos "erros" no dataset e tratá-los. 
+  ![Dataset Tratado](./evidencias/curso%20estatistica/evidencia2.png)
+
+
+- **Amostragens**  
+  - Técnicas de amostragem foram utilizadas para garantir representatividade dos dados analisados:  
+    - Amostragem Simples.  
+    - Amostragem Estratificada.  
+    - Amostragem Sistemática.
+
+    Achei interessante os conceitos, e de como ainda é eficiênte pegar uma amostra de um conjunto de dados. No exemplo abaixo é mostrado a amostragem simples.
+    ![Amostragem Simples](./evidencias/curso%20estatistica/evidencia4.png)
+
+
+- **Visualização de Dados**  
+  - Foram criados histogramas para compreender a **distribuição de frequências** de variáveis como:
+    - **Idade dos participantes** de uma cidade específica do estado de São Paulo, nesse caso optei por escolher Guarulhos.
+    ![Histograma](./evidencias/curso%20estatistica/evidencia5.png)
+
+- **Outliers**  
+  - Análise de outliers e decisão sobre mantê-los ou descartá-los, com base no impacto que esses dados extremos poderiam ter na análise. É sempre imprtante manter a coerência dos dados, um "outlier" com nota superior ao limite superior é uma coisa positivo, o vestibulando teve bom desempenho, logo não são dados que devem ser "tratados" e vice-verse para quem não foi bem.
+  - Gráfico de **boxplot** foram utilizados para identificar outliers de forma visual. 
+  - *Exemplo de Boxplot:*  
+    ![Boxplot Exemplo](./evidencias/curso%20estatistica/evidencia3.png)
+
+- **Probabilidade**  
+  - Foram aplicados conceitos como probabilidade condicional e o **Teorema de Bayes**, além de distribuições de probabilidades discretas e contínuas. Durante as aulas foram criadas funções para gerar as probabilidades.
+  ![Probabilidades](./evidencias/curso%20estatistica/evidencias6.png)
+
+- **Estatística Inferencial**
+  - **QQPlot**  
+  - Gráficos de QQPlot foram gerados para verificar se a distribuição das notas segue uma **distribuição normal**.
+  - Além disso, gráficos de dispersão foram utilizados para identificar possíveis correlações lineares entre as variáveis.
+  <p align="center">
+    <img src="../Sprint 02/evidencias/curso estatistica/evidencia7.png" alt="Gráfico QQPLOT" width="400">
+    <img src="../Sprint 02/evidencias/curso estatistica/evidencia8.png" alt="Gráfico de Dispersão" width="400">
+  </p>
+
+## 🏆 Certificados
+
+Segue abaixo os certificados obtidos nos cursos da Sprint 02:
+
+1. **Curso de SQL**
+![Certificado 1](./certificados/Certificado%20-%20Curso%20SQL%20para%20Analise%20de%20Dados.jpg)  
+
+2. **Curso de Estatística**
+![Certificado 2](./certificados/Certificado%20-%20Curso%20Estatistica%20para%20Analise%20de%20Dados.jpg)
+
+3. **Certificado Data & AI - Ciência de Dados - Projeto 1**
+![Certificado 3](./certificados/Certificado%20-%20Projeto%201.jpg)  
