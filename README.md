@@ -88,95 +88,47 @@ Hobbies:
     - Limpeza e tratamento de dados.  
     - Exportação do dataset tratado para análise.  
 
-
 - Seção 4: Fundamentos de Estatística  
   - **Conceitos gerais** de Estatística e Amostragem:  
     - Amostragem Simples, Estratificada e Sistemática.  
   - **Distribuição de Frequências**:  
     - Construção de tabelas, histogramas e análise visual dos dados.  
   - **Medidas de Tendência Central**:  
-    - Média, Mediana e Moda.  
-    - **Fórmulas**:  
-      - **Média**:  
-        \[
-        \bar{x} = \frac{\sum_{i=1}^{n} x_i}{n}
-        \]  
-      - **Mediana**:  
-        - Ordenar os dados.  
-        - Caso \( n \) seja ímpar:  
-          \[
-          \text{Mediana} = x_{(n+1)/2}
-          \]  
-        - Caso \( n \) seja par:  
-          \[
-          \text{Mediana} = \frac{x_{(n/2)} + x_{(n/2 + 1)}}{2}
-          \]  
-      - **Moda**:  
-        - O valor mais frequente no conjunto de dados.  
-
+    - Média: Soma dos valores dividida pelo número total de elementos.  
+    - Mediana: Valor central de um conjunto de dados ordenado.  
+    - Moda: Valor mais frequente em um conjunto de dados.  
   - **Medidas de Dispersão e Posição**:  
-    - Variância, Desvio Padrão, Intervalo Interquartil (IQR) e Quartis.  
-    - **Fórmulas**:  
-      - **Variância (populacional)**:  
-        \[
-        \sigma^2 = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n}
-        \]  
-      - **Variância (amostral)**:  
-        \[
-        s^2 = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n - 1}
-        \]  
-      - **Desvio Padrão (populacional)**:  
-        \[
-        \sigma = \sqrt{\frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n}}
-        \]  
-      - **Desvio Padrão (amostral)**:  
-        \[
-        s = \sqrt{\frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n - 1}}
-        \]  
-      - **IQR (Intervalo Interquartil)**:  
-        \[
-        IQR = Q3 - Q1
-        \]  
-      - **Quartis**:  
-        - \( Q1 \): 25% dos dados.  
-        - \( Q2 \): Mediana.  
-        - \( Q3 \): 75% dos dados.  
-      - **Limite Inferior e Superior** (detecção de outliers):  
-        \[
-        \text{Limite Inferior} = Q1 - 1.5 \times IQR
-        \]  
-        \[
-        \text{Limite Superior} = Q3 + 1.5 \times IQR
-        \]  
-
+    - Variância: Mede o quanto os dados se desviam da média.  
+    - Desvio Padrão: Raiz quadrada da variância, usado para medir a dispersão.  
+    - Intervalo Interquartil (IQR): Diferença entre o terceiro e o primeiro quartil (Q3 - Q1).  
+    - Quartis: Dividem os dados em quatro partes iguais.  
+    - Limites Inferior e Superior: Identificam possíveis outliers com base no IQR.  
   - **Análise de Outliers**:  
-    - Utilização de gráficos como Boxplot.  
-
+    - Utilização de gráficos como Boxplot para identificar valores extremos.  
 
 - Seção 5: Estatística Probabilística para Análise de Dados  
   - **Probabilidade**:  
-    - Conceitos de eventos e espaço amostral.  
+    - Conceitos básicos, como eventos e espaço amostral.  
   - **Teorema de Bayes**:  
-    - Fórmula:  
-      \[
-      P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
-      \]  
-  - **Probabilidade da União, Intersecção e Condicional**.  
+    - Ferramenta para calcular probabilidades condicionais.  
+  - **Probabilidade da União, Intersecção e Condicional**:  
+    - Aplicação em diferentes cenários para calcular relações entre eventos.  
   - **Distribuição de Probabilidades**:  
-    - Discreta e Contínua.  
+    - Discreta: Exemplo, distribuição binomial.  
+    - Contínua: Exemplo, distribuição normal.  
   - **Teste de Normalidade**:  
-    - Verificação de conformidade com a distribuição normal.  
-
+    - Verificação de conformidade com a distribuição normal para os dados analisados.  
 
 - Seção 6: Testes Paramétricos e Não Paramétricos  
   - **Intervalo de Confiança**:  
-    - Estimativa de parâmetros com base nos dados.  
-  - **Distribuições t e Qui-Quadrado**.  
+    - Estimativa do intervalo onde o parâmetro populacional está localizado.  
+  - **Distribuições t e Qui-Quadrado**:  
+    - Distribuições utilizadas em análises de variáveis contínuas e categóricas.  
   - **Testes de Hipóteses**:  
-    - Teste Z.  
+    - Teste Z: Aplicado para médias de grandes amostras.  
     - Teste t para duas amostras independentes (**Teste T de Student**).  
   - **Testes Não Paramétricos**:  
-    - Teste Mann-Whitney.  
-    - Teste de Wilcoxon.  
+    - Teste Mann-Whitney: Comparação de dois grupos independentes.  
+    - Teste de Wilcoxon: Comparação de pares de dados.  
   - **Correlação Linear e Regressão Linear**:  
-    - Relações entre variáveis e modelagem preditiva.  
+    - Estudo das relações entre variáveis e a construção de modelos preditivos.  
