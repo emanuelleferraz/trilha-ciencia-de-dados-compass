@@ -43,6 +43,22 @@ Durante o curso, não foram realizados diretamente exercícios, dessa forma, ach
 
     ➡️ Confira o notebook de [medidas de dispersão e de posição](./exercicios/curso%20estatistica/medidas-dispersao-posicao.ipynb).
 
+3. **Seção 5: Estatística Probabilística**:
+
+    ➡️ Confira o notebook de [probabilidade](./exercicios/curso%20estatistica/probabilidade.ipynb).
+
+    ➡️ Confira o notebook de [distribuição discreta](./exercicios/curso%20estatistica/distribuicao-discreta.ipynb).
+
+    ➡️ Confira o notebook de [testes de normalidade](./exercicios/curso%20estatistica/normalidade.ipynb).
+
+4. **Seção 6: Fundamentos da Estatística Inferencial**:
+
+    ➡️ Confira o notebook de [teste de hipoteses z](./exercicios/curso%20estatistica/teste-hipoteses-z.ipynb).
+
+    ➡️ Confira o notebook de [teste de hipoteses t](./exercicios/curso%20estatistica/teste-hipoteses-t.ipynb).
+
+    ➡️ Confira o notebook de [correlação linear e regressão linear](./exercicios/curso%20estatistica/correlacao-regressao.ipynb).
+
 
 # 📂 Evidências
 
