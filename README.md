@@ -31,6 +31,7 @@ Hobbies:
 ## Sprints - Entregas
 
 1. [Sprint 1](./Sprint%2001/README.md)
+2. [Sprint 2](./Sprint%2002/README.md)
 
 ## 📚 Conteúdo de Aprendizado
  ### Sprint 1
