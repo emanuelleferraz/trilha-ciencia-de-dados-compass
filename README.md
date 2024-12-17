@@ -79,7 +79,7 @@ Hobbies:
 | Seção 09  | Tratamento de Dados                                 | **Conversões**: com operador `::` ou `CAST`. **Gerais**: `CASE WHEN`, `COALESCE`. **Texto**: `UPPER`, `LOWER`, `TRIM`, `REPLACE`. **Datas**: `INTERVAL`, `DATE_TRUNC`, `EXTRACT`, funções personalizadas como `DATEDIFF`. |
 | Seção 10  | Manipulação de Tabelas                              | **Tabelas**: `CREATE TABLE`, `CREATE TABLE AS` (a partir de query), `DROP TABLE`. **Linhas**: `INSERT INTO VALUES`, `DELETE`, `UPDATE SET`. **Colunas**: `ALTER TABLE`, `UPDATE SET` e `DELETE`. |
 
-- **Estatística para Análise de Dados**: Nesse curso foram ensinados todos os conceitos estatísticos necessários para realizar análises de dados. Desde conceitos fundamentais da estatística (medidas centrais) até conceitos probabilísticos.
+- **Estatística para Análise de Dados**: Nesse curso foram ensinados todos os conceitos estatísticos necessários para realizar análises de dados. Desde conceitos fundamentais da estatística (medidas centrais) até conceitos probabilísticos:
 
 
 - Seção 3: Preparação, Organização e Estruturação dos Dados  
