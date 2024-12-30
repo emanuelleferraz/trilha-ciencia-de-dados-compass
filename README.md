@@ -139,19 +139,17 @@ Hobbies:
 
   - **Curso de IA e Machine Learning**: Ao longo do curso, foram abordados desde conceitos introdutórios até tópicos avançados, com seções estruturadas para facilitar o aprendizado, sendo:
 
-  - Seção 01: Introdução:
+  - **Seção 01: Introdução**
+    - **O que é Machine Learning**: Campo da IA que ensina computadores a aprender padrões e realizar tarefas sem serem explicitamente programados.
+    - **Estrutura dos Dados**: Organização e formatação dos dados para análise e processamento.
+    - **Aplicações de ML**: Reconhecimento facial, detecção de fraudes, previsões financeiras, diagnóstico médico, entre outros.
 
-  - **O que é Machine Learning**: Campo da IA que ensina computadores a aprender padrões e realizar tarefas sem serem explicitamente programados.
-  - **Estrutura dos Dados**: Organização e formatação dos dados para análise e processamento.
-  - **Aplicações de ML**: Reconhecimento facial, detecção de fraudes, previsões financeiras, diagnóstico médico, entre outros.
 
 
-  - Seção 02: Fundamentos de Machine Learning:
+- **Seção 02: Fundamentos de Machine Learning**
+  - **Classificação**: Método de aprendizado supervisionado onde o objetivo é prever a categoria de dados.
 
-   - **Classificação**:
-  Método de aprendizado supervisionado onde o objetivo é prever a categoria de dados.
-
-   - **Matriz de Confusão**
+  **Matriz de Confusão**
   | **Termo**               | **Definição**                                                                                   |
   |-------------------------|-----------------------------------------------------------------------------------------------|
   | **Verdadeiros Positivos** | Previsões corretas de uma classe positiva.                                                     |
@@ -159,24 +157,22 @@ Hobbies:
   | **Falsos Positivos**      | Previsões incorretas onde uma classe negativa foi prevista como positiva.                      |
   | **Falsos Negativos**      | Previsões incorretas onde uma classe positiva foi prevista como negativa.                      |
 
-
-   - **Métricas de Avaliação de Performance**:
-  | **Métrica**  | **Definição**                                                                                     |
-  |--------------|-------------------------------------------------------------------------------------------------|
-  | **Acurácia**   | Proporção de previsões corretas em relação ao total.                                            |
-  | **Precisão**   | Proporção de previsões positivas corretas.                                                      |
-  | **Recall**     | Proporção de positivos corretamente identificados.                                              |
-  | **F1 Score**   | Média harmônica entre precisão e recall.                                                        |
-  | **Especificidade** | Proporção de negativos corretamente identificados.                                          |
-
+  **Métricas de Avaliação de Performance**
+  | **Métrica**       | **Definição**                                                                                     |
+  |-------------------|-------------------------------------------------------------------------------------------------|
+  | **Acurácia**      | Proporção de previsões corretas em relação ao total.                                            |
+  | **Precisão**      | Proporção de previsões positivas corretas.                                                      |
+  | **Recall**        | Proporção de positivos corretamente identificados.                                              |
+  | **F1 Score**      | Média harmônica entre precisão e recall.                                                        |
+  | **Especificidade**| Proporção de negativos corretamente identificados.                                              |
 
   - **Codificação de Categorias**: Técnicas como Label Encoding e One Hot Encoding para representar variáveis categóricas.
   - **Dimensionamento de Características**: Normalização e padronização dos dados para melhor performance dos modelos.
   - **Regras de Associação**: Descoberta de relações úteis entre variáveis em grandes conjuntos de dados.
 
 
-  - Seção 03: Estudo de Algoritmos de Machine Learning:
 
+- **Seção 03: Estudo de Algoritmos de Machine Learning**
   - **Correlação e Regressão Linear**: Identificação de relações entre variáveis.
   - **Naive Bayes**: Classificador probabilístico baseado no Teorema de Bayes.
   - **Árvore de Decisão**: Modelo baseado em decisões sequenciais.
@@ -186,8 +182,8 @@ Hobbies:
   - **KMeans e Clusterização**: Agrupamento de dados baseado na similaridade.
 
 
-  - Seção 04: Tópicos Avançados em Machine Learning:
 
+- **Seção 04: Tópicos Avançados em Machine Learning**
   - **Engenharia de Atributos**: Criação de novas variáveis a partir dos dados existentes.
   - **PCA (Análise de Componentes Principais)**: Redução de dimensionalidade dos dados.
   - **Avaliação de Modelos**: Uso de intervalos de confiança e testes de hipóteses para comparação.
@@ -196,42 +192,41 @@ Hobbies:
   - **Dados Desbalanceados**: Métodos como oversampling, undersampling e SMOTE.
 
 
-  - Seção 05: Redes Neurais, Deep Learning e Visão Computacional:
 
+- **Seção 05: Redes Neurais, Deep Learning e Visão Computacional**
   - **Redes Neurais**: Modelos inspirados no funcionamento do cérebro humano.
   - **Perceptron**: Unidade básica de uma rede neural.
   - **Deep Learning**: Redes neurais profundas para resolver problemas complexos.
   - **RNA com Keras**: Implementação de redes neurais utilizando a biblioteca Keras.
-  - **Visão Computacional**:
-    | **Etapa**       | **Descrição**                                          |
-    |------------------|------------------------------------------------------|
-    | **Convolution**  | Extração de características por meio de filtros.      |
-    | **Pooling**      | Redução dimensional para evitar overfitting.          |
-    | **Flattening**   | Transformação dos dados para entrada na camada densa. |
-    | **Full Connection** | Conexão total entre neurônios para previsão final. |
+
+  **Visão Computacional**
+  | **Etapa**           | **Descrição**                                            |
+  |---------------------|----------------------------------------------------------|
+  | **Convolution**     | Extração de características por meio de filtros.         |
+  | **Pooling**         | Redução dimensional para evitar overfitting.             |
+  | **Flattening**      | Transformação dos dados para entrada na camada densa.    |
+  | **Full Connection** | Conexão total entre neurônios para previsão final.       |
 
   - **Autoencoders**: Modelos para compressão e reconstrução de dados.
   - **LSMT**: Redes neurais recorrentes para dados sequenciais.
 
 
-  - Seção 06: Machine Learning Explicável:
 
+- **Seção 06: Machine Learning Explicável**
   - **Definição**: Métodos para tornar o comportamento dos modelos mais interpretável.
   - **Modelos White box e Black box**: Explicáveis versus complexos e opacos.
   - **Ferramentas**: Lime, Eli5, Shap e Interpret para explicabilidade.
 
 
-  - Seção 07: NLP e LLM:
 
+- **Seção 07: NLP e LLM**
   - **NLP (Processamento de Linguagem Natural)**: Técnicas para análise e compreensão de texto.
   - **Word Embedding e Transformers**: Representação vetorial de palavras e arquitetura para NLP.
   - **LLMs (Large Language Models)**: Modelos de linguagem como GPT.
   - **Hugging Face**: Ferramentas e modelos pré-treinados para NLP.
 
 
-
-  - Seção 09: Detecção de Anomalias
-
+- **Seção 09: Detecção de Anomalias**
   - **Outliers**: Dados que se desviam significativamente do padrão.
   - **Z-Score**: Métrica para identificar outliers baseado na média e desvio padrão.
   - **IQR (Intervalo Interquartil)**: Método para detecção de outliers com quartis.
