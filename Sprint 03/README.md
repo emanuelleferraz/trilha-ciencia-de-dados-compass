@@ -110,11 +110,7 @@ Nesse curso, foram apresentados desde conceitos introdutórios de machine learni
 
 Segue abaixo os certificados obtidos nos cursos da Sprint 03:
 
-1. **Curso de SQL**
-![Certificado 1](./certificados/Certificado%20-%20Curso%20SQL%20para%20Analise%20de%20Dados.jpg)  
+1. **Curso de IA e Machine Learning**
+![Certificado 1](./certificados/Curso%20IA%20e%20Machine%20Learning.jpg)  
 
-2. **Curso de Estatística**
-![Certificado 2](./certificados/Certificado%20-%20Curso%20Estatistica%20para%20Analise%20de%20Dados.jpg)
 
-3. **Certificado Data & AI - Ciência de Dados - Projeto 1**
-![Certificado 3](./certificados/Certificado%20-%20Projeto%201.jpg)  
