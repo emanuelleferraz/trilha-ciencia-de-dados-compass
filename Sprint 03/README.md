@@ -3,6 +3,10 @@
 ## Link do Vídeo
 Segue o link do vídeo referente ao desafio da Sprint 03.
 
+https://compasso-my.sharepoint.com/:v:/r/personal/emanuelle_lima_pb_compasso_com_br/Documents/emanuelle.lima-sprint03.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ADR2b8
+
+---
+
 Nessa Sprint 03, a trilha foi composta de apenas um curso, sendo de **IA e Machine Learning**.
 
 # 📝 Exercícios
@@ -84,8 +88,8 @@ Nesse curso, foram apresentados desde conceitos introdutórios de machine learni
   - Para a análise de clusterização, foram utilizados os algoritmos KMeans e DBSCAN. Abaixo estão os gráficos que mostram os resultados da clusterização em um conjunto de dados.
 
   <p align="center">
-    <img src="../Sprint 03/evidencias/kmeans.png" alt="Gráfico KMeans" width="400">
-    <img src="../Sprint 03/evidencias/dbscan.png" alt="Gráfico de Dispersão" width="400">
+    <img src="../Sprint 03/evidencias/kmeans.png" alt="Gráfico KMeans" width="500">
+    <img src="../Sprint 03/evidencias/dbscan.png" alt="Gráfico de Dispersão" width="500">
   </p>
 
   O KMeans agrupa os dados em clusters esféricos, enquanto o DBSCAN é mais robusto para lidar com dados com formatos não lineares e outliers.

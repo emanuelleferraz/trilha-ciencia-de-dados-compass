@@ -32,6 +32,8 @@ Hobbies:
 
 1. [Sprint 1](./Sprint%2001/README.md)
 2. [Sprint 2](./Sprint%2002/README.md)
+3. [Sprint 3](./Sprint%2003/README.md)
+
 
 ## 📚 Conteúdo de Aprendizado
  ### Sprint 1
