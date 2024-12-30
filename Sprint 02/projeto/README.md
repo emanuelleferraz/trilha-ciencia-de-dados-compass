@@ -10,7 +10,7 @@ Este projeto realiza a análise de dados de uma loja online utilizando diversos 
 
 ---
 
-# Link do Vídeo
+## Link do Vídeo
 
 Realizei o upload do vídeo no OneDrive, segue o link para acessá-lo: https://compasso-my.sharepoint.com/:v:/r/personal/emanuelle_lima_pb_compasso_com_br/Documents/emanuelle.lima-sprint02.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YW5ZI6
 
