@@ -234,3 +234,15 @@ Hobbies:
   - **IQR (Intervalo Interquartil)**: Método para detecção de outliers com quartis.
   - **LOF**: Identificação de anomalias com base na densidade local.
   - **Técnicas de Séries Temporais**: Métodos para análise de dados sequenciais.
+
+### Sprint 4
+ Durante a Sprint 04, foram explorados os seguintes conteúdos:
+
+ - **Curso Machine Learning com Python**: Neste curso, foram abordados assuntos como previsões utilizando regressão linear, algoritmo Apriori, agrupamento (clusterização) com KMeans e DBSCAN, seleção de atributos, redução da dimensionalidade (PCA) e detecção de outliers.
+
+   - **Seção 14: Regressão Linear**: Existindo uma relação linear entre as variáveis dependente e explanatória(s), é um indicativo de que podemos aplicar a regressão linear para prever (números). Para encontrar essa relação, é necessário calcular:
+      - Covariância: Mede como duas variáveis se comportam juntas, indicando se elas têm uma relação positiva (aumentam juntas) ou negativa (uma aumenta enquanto a outra diminui).
+
+      - Coeficiente de Correlação:Mede a intensidade e a direção da relação linear entre duas variáveis. Seus valores variam de -1 (correlação negativa perfeita) a +1 (correlação positiva perfeita). Um valor próximo de 0 indica pouca ou nenhuma relação linear.
+
+      - Coeficiente de Determinação: Representa a proporção da variação de uma variável que pode ser explicada pela outra em um modelo de regressão. É o quadrado do coeficiente de correlação e varia de 0 a 1, onde 1 indica que 100% da variação é explicada pelo modelo.
