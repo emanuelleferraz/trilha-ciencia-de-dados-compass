@@ -88,8 +88,8 @@ Nesse curso, foram apresentados desde conceitos introdutórios de machine learni
   - Para a análise de clusterização, foram utilizados os algoritmos KMeans e DBSCAN. Abaixo estão os gráficos que mostram os resultados da clusterização em um conjunto de dados.
 
   <p align="center">
-    <img src="../Sprint 03/evidencias/kmeans.png" alt="Gráfico KMeans" width="500">
-    <img src="../Sprint 03/evidencias/dbscan.png" alt="Gráfico de Dispersão" width="500">
+    <img src="../Sprint 03/evidencias/kmeans.png" alt="Gráfico KMeans" width="430">
+    <img src="../Sprint 03/evidencias/dbscan.png" alt="Gráfico de Dispersão" width="430">
   </p>
 
   O KMeans agrupa os dados em clusters esféricos, enquanto o DBSCAN é mais robusto para lidar com dados com formatos não lineares e outliers.
