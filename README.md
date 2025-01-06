@@ -240,9 +240,28 @@ Hobbies:
 
  - **Curso Machine Learning com Python**: Neste curso, foram abordados assuntos como previsões utilizando regressão linear, algoritmo Apriori, agrupamento (clusterização) com KMeans e DBSCAN, seleção de atributos, redução da dimensionalidade (PCA) e detecção de outliers.
 
-   - **Seção 14: Regressão Linear**: Existindo uma relação linear entre as variáveis dependente e explanatória(s), é um indicativo de que podemos aplicar a regressão linear para prever (números). Para encontrar essa relação, é necessário calcular:
+   - **Seção 14: Regressão Linear**: Existindo uma relação linear entre as variáveis dependente e explanatória(s), é um indicativo de   que podemos aplicar a regressão linear para prever (números). Para encontrar essa relação, é necessário calcular:
       - Covariância: Mede como duas variáveis se comportam juntas, indicando se elas têm uma relação positiva (aumentam juntas) ou negativa (uma aumenta enquanto a outra diminui).
 
       - Coeficiente de Correlação:Mede a intensidade e a direção da relação linear entre duas variáveis. Seus valores variam de -1 (correlação negativa perfeita) a +1 (correlação positiva perfeita). Um valor próximo de 0 indica pouca ou nenhuma relação linear.
 
       - Coeficiente de Determinação: Representa a proporção da variação de uma variável que pode ser explicada pela outra em um modelo de regressão. É o quadrado do coeficiente de correlação e varia de 0 a 1, onde 1 indica que 100% da variação é explicada pelo modelo.
+    
+    - **Seção 15: Outros Tipos de Regressão**: Nessa seção foram apresentadas outros tipos de regressão além da linear, uma vez que podem existir problemas não linearmente separáveis. 
+      - Regressão Polinomial: Extensão da regressão linear que utiliza termos polinomiais (e.g., x², x³) para capturar relações não lineares entre as variáveis independentes e a variável dependente.
+
+      - Regressão com Árvores de Decisão: Técnica baseada em divisões sucessivas do espaço de atributos, criando uma estrutura de árvore para prever valores contínuos em vez de classes.
+
+      - Regressão com Random Forest: Conjunto de múltiplas árvores de decisão treinadas com diferentes subconjuntos dos dados. As previsões são combinadas (no caso de regressão é geralmente por média) para melhorar a precisão e reduzir o overfitting.
+
+      - Regressão com Vetores de Suporte: Utiliza margens (ou hiperplanos) para prever valores contínuos, minimizando o erro dentro de uma margem tolerável, utilizando o conceito de suporte vetorial.
+
+      - Regressão com Rede Neural: Baseada em redes de camadas interconectadas de nós (neurônios), onde os pesos são ajustados durante o treinamento para aprender padrões complexos e prever valores contínuos.
+
+    - **Seção 17: Algoritmo Apriori**: O algoritmo Apriori é uma técnica de aprendizado de máquina usada para mineração de regras de associação em conjuntos de dados transacionais. Ele identifica padrões frequentes nos dados, como itens que frequentemente aparecem juntos em transações, e gera regras baseadas nesses padrões (normalmente utilizado em mercados).
+
+    | **Métrica**   | **Descrição**                                                                                     | **Fórmula**                                         |
+    |---------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------|
+    | **Suporte**   | Mede a frequência com que um item ou conjunto de itens aparece no banco de dados, representado como uma proporção do total de transações. | **Suporte = (Transações com A e B) / Total de transações** |
+    | **Confiança** | Mede a probabilidade de um item B ser comprado dado que o item A foi comprado. Avalia a força da regra. | **Confiança = (Transações com A e B) / (Transações com A)** |
+    | **Lift**      | Mede o quão mais provável é que dois itens sejam comprados juntos em comparação ao que seria esperado se fossem independentes. | **Lift = Confiança / Suporte de B**              |
