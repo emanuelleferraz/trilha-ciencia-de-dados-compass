@@ -265,3 +265,64 @@ Hobbies:
     | **Suporte**   | Mede a frequência com que um item ou conjunto de itens aparece no banco de dados, representado como uma proporção do total de transações. | **Suporte = (Transações com A e B) / Total de transações** |
     | **Confiança** | Mede a probabilidade de um item B ser comprado dado que o item A foi comprado. Avalia a força da regra. | **Confiança = (Transações com A e B) / (Transações com A)** |
     | **Lift**      | Mede o quão mais provável é que dois itens sejam comprados juntos em comparação ao que seria esperado se fossem independentes. | **Lift = Confiança / Suporte de B**              |
+
+- **Seção 20: Agrupamento com K-Means**:  
+  - O algoritmo K-Means é utilizado para agrupar dados em *k* clusters com base em semelhanças.  
+  - Funcionamento:  
+    - Inicialização: Escolha aleatória de *k* centróides.  
+    - Atribuição: Cada ponto de dados é associado ao centróide mais próximo (geralmente usando a distância Euclidiana).  
+    - Atualização: Recalcula-se a posição dos centróides como a média dos pontos atribuídos ao cluster.  
+    - Iteração: Repete os passos de atribuição e atualização até a convergência ou uma condição de parada.  
+  - O número ideal de clusters (*k*) pode ser determinado por métodos como:  
+    - **Elbow Method**: Identificação do ponto onde a redução na inércia (soma das distâncias ao centróide) começa a diminuir significativamente.  
+    - **Silhouette Score**: Mede a qualidade do agrupamento com base na separação e coesão dos clusters.  
+  
+- **Seção 21: Outros Algoritmos de Agrupamento**:  
+  - **Hierárquico**:  
+    - Cria uma hierarquia de clusters utilizando abordagens aglomerativas (bottom-up) ou divisivas (top-down).  
+    - Não requer definição prévia do número de clusters.  
+    - Representado por um dendrograma, permitindo a escolha do número de clusters com base nos níveis de corte.  
+    - Mais adequado para conjuntos de dados menores devido ao custo computacional.  
+
+  - **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**:  
+    - Agrupa pontos com base em densidade, formando clusters onde há uma concentração significativa de pontos.  
+    - Identifica ruídos (outliers) como pontos fora de regiões densas.  
+    - Não requer o número de clusters, mas depende dos parâmetros `eps` (distância máxima) e `min_samples` (mínimo de pontos por região).  
+    - Funciona bem com clusters de formas arbitrárias e dados com ruídos. 
+
+  - **Seção 27: Seleção de Atributos**:  
+  - **Low Variance**:  
+    - Remove atributos com variância baixa, que pouco contribuem para a diferenciação dos dados.  
+    - Útil para simplificar o modelo e reduzir ruídos.  
+
+  - **Extra Tree**:  
+    - Método baseado em árvores de decisão para calcular a importância dos atributos.  
+    - Seleciona os mais relevantes com base na divisão dos dados nas árvores.  
+    - É rápido e eficiente em grandes conjuntos de dados.  
+
+- **Seção 28: Redução da Dimensionalidade**:  
+  - **PCA (Principal Component Analysis)**:  
+    - Transforma os dados em componentes principais que explicam a maior variância.  
+    - Reduz a dimensionalidade enquanto preserva a maior parte da informação.  
+
+  - **Kernel PCA**:  
+    - Variante do PCA que usa funções kernel para lidar com dados não lineares.  
+    - Eficaz em cenários onde os dados não são bem separados linearmente.  
+
+  - **LDA (Linear Discriminant Analysis)**:  
+    - Supervisionado, otimiza a separação entre classes enquanto reduz a dimensionalidade.  
+    - Focado em maximizar a variância entre classes e minimizar a variância dentro das classes.  
+
+- **Seção 29: Detecção de Outliers**:  
+  - **Com Boxplot**:  
+    - Identifica outliers com base no intervalo interquartil (IQR).  
+    - Outliers são pontos fora de 1.5 vezes o IQR acima ou abaixo dos quartis.  
+
+  - **Com gráfico de dispersão**:  
+    - Visualiza possíveis outliers com base na distribuição dos dados em dois ou mais eixos.  
+    - Útil para detectar pontos anômalos em relações bivariadas.  
+
+  - **Com PYOD**:  
+    - Biblioteca Python específica para detecção de outliers.  
+    - Oferece diversos algoritmos, como LOF, AutoEncoder e Isolation Forest, para detectar anomalias em diferentes cenários.  
+
