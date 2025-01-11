@@ -325,3 +325,33 @@ Hobbies:
       - **Com PYOD**:  
         - Biblioteca Python específica para detecção de outliers.  
         - Oferece diversos algoritmos, como LOF, AutoEncoder e Isolation Forest, para detectar anomalias em diferentes cenários.  
+
+  - **Curso Machine Learning com Amazon AWS SageMaker**: Neste curso, foram abordados assuntos como previsões utilizando regressão linear com linear learner e xgboost, redução de dimensionalidade com agrupamento (clusterização) com KMeans, classificação, detecção de outliers com random cut, tensor flow e classificação de imagens com redes neurais artificiais.
+
+      - **Seção 03: Regressão com Linear Learner e XGBoost**:
+        - **Linear Learner**: Algoritmo de aprendizado supervisionado utilizado para resolver problemas de regressão e classificação. Ele utiliza uma abordagem linear, ajustando os pesos das variáveis de entrada para minimizar o erro em relação às previsões.
+        - **XGBoost**: Uma biblioteca de aprendizado de máquina que implementa árvores de decisão otimizadas por gradient boosting. É bastante utilizada para regressão devido à sua eficiência e alto desempenho, mesmo em datasets grandes.
+
+      - **Seção 04: Classificação com Linear Learner e XGBoost**:
+        - A diferença aqui é que os mesmos algoritmos foram usados para resolver problemas de **classificação** em vez de regressão. Enquanto a regressão prevê valores contínuos, a classificação prevê categorias ou rótulos discretos.
+
+      - **Seção 05: Séries Temporais com DeepAR**:
+        - **DeepAR**: Um algoritmo de aprendizado profundo projetado para previsões em séries temporais. Ele é muito útil para lidar com conjuntos de dados com múltiplas séries temporais relacionadas, aprendendo padrões compartilhados para melhorar a precisão das previsões.
+
+      - **Seção 06: Outliers com Random Cut Forest**:
+        - **Random Cut Forest (RCF)**: Um algoritmo para detecção de outliers que utiliza árvores baseadas em cortes aleatórios para identificar outliers em dados.
+
+      - **Seção 07: PCA com Agrupamento K-Means**:
+        - Nessa seção, foi aplicado o **PCA (Análise de Componentes Principais)** para reduzir a dimensionalidade dos dados, seguido pelo agrupamento utilizando o algoritmo **K-Means**. Essa combinação facilita a análise e visualização de dados complexos, agrupando-os com base em semelhanças.
+
+      - **Seção 08: Redes Neurais Artificiais com Classificação de Imagem**:
+        - As **Redes Neurais Artificiais (RNAs)** foram utilizadas para resolver problemas de classificação de imagens no SageMaker (identificar objetos ou categorias específicas).
+
+      - **Seção 09: SageMaker com TensorFlow**:
+        - O **TensorFlow** é uma biblioteca de aprendizado de máquina amplamente utilizada para criar e treinar modelos de redes neurais. No SageMaker, foi integrado para facilitar a criação, o treinamento e a implantação de modelos de aprendizado profundo.
+
+      - **Seção 10: Endpoint Externo**:
+        - Um **endpoint externo** criado no SageMaker permite que o modelo treinado seja acessado e utilizado em outras plataformas. Nas aulas, o endpoint foi acessado pelo Google Colab, permitindo realizar previsões remotamente.
+
+      - **Últimas Seções: Conceitos Teóricos sobre Redes Neurais**:
+        - Nessas seções, foram abordados conceitos teóricos fundamentais sobre redes neurais, como arquitetura, funcionamento e tipos de redes. 
