@@ -3,6 +3,9 @@
 Nessa Sprint 04, a trilha foi dividida entre 2 cursos, sendo eles: **Machine Learning e Data Science com Python** e **Machine Learning com Amazon AWS SageMaker**.
 
 ## Link do Vídeo
+https://compasso-my.sharepoint.com/:v:/r/personal/emanuelle_lima_pb_compasso_com_br/Documents/emanuelle.lima-sprint04.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bWbNsC
+
+---
 
 # 📝 Exercícios
 
