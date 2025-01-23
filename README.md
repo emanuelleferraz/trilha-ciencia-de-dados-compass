@@ -357,3 +357,20 @@ Hobbies:
 
       - **Últimas Seções: Conceitos Teóricos sobre Redes Neurais**:
         - Nessas seções, foram abordados conceitos teóricos fundamentais sobre redes neurais, como arquitetura, funcionamento e tipos de redes. 
+
+ ### Sprint 5
+ Durante a Sprint 05, foi desenvolvido o projeto com objetivo de fazer previsões do preço de carros usados. O projeto foi dividido em:
+  - **Bibliotecas Utilizadas**:
+    - `Pandas`, `Numpy`, `Seaborn`, `MatplotLib`, `Shap` e `Scikit-Learn`.
+
+  - **Amostragem dos Dados**: Foi instruído que fizessemos uma amostragem dos dados do dataset `cars`. O dataset tinha aproximadamente 760 mil registros, após ser feita uma amostragem de 25% do dataset, a nova quantidade de registros foi aproximadamente 190 mil.
+
+  - **Análise Exploratória dos Dados (EDA)**: A EDA é o processo na qual se conhece a base de dados em que você está trabalhando. Para analisar os 20 atributos (colunas) do dataset, foram gerados gráficos como Boxplot e Histogramas para entender como estavam distribuídos os dados, bem como visualizar a ocorrência de outliers. Para visualizar as variáveis categórias foi utilizado os gráficos CountPlots da biblioteca Seaborn. Ainda na EDA, foram verificados as ocorrências dos valores nulos e também duplicados na base de dados.
+
+  - **Pré-Processamento dos Dados**: Nessa etapa, foram feitos as limpezas dos dados como tratamento de valores nulos e outliers, além da transformação dos dados como a codificação de rótulos, na qual foram utilizados duas técnicas sendo *LabelEncoder* e *TargetEncoder*. Ainda nessa etapa, foi realizado a separação das variáveis previsoras (X) e da variável objetivo (Y). Por último, com o método `train_test_split()` foram separados os dados de treino, sendo 70% e os dados de teste, sendo 30%.
+
+  - **Criação e Treinamento do Modelo**: Com a separação dos dados em treino e teste, a próxima etapa foi fazer a criação do modelo, utilizando o algoritmo de Random Forest, e logo em seguida foi realizado o treinamendo (método `fit()`) e as previsões (método `predict()`).
+
+  - **Avaliação e Métricas do Modelo**: Após o treinamento e previsão, foi feito a avaliação da performance do modelo através das métricas de `Score`, `Mean Squared Error` e `Mean Absolute Error`.
+
+  - **Shap Values**: Por último, foi pedido que avaliassemos as variáveis que mais impactaram no modelo, através da técnica de XAI chamada *SHAP VALUES* obtive as duas variáveis mais importantes para o modelo.
