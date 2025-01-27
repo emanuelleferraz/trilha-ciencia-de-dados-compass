@@ -14,6 +14,8 @@ https://compasso-my.sharepoint.com/:v:/r/personal/emanuelle_lima_pb_compasso_com
 Para realizar o projeto foram necessárias as importações de algumas bibliotecas como: 
  - `pandas`, `numpy`, `seaborn`, `matplotlib`, `shap` e `scikit-learn`.
 
+Além disso, para conseguir visualizar e realizar as alterações na base de dados, é necessário ter o arquivo [cars](https://drive.google.com/file/d/1pw1gp1z7jHKi1ynRgFfY4yEvYbHOLLHg/view?usp=drive_link) presente no meu google drive.
+
 ## 🛠️ Etapas do Projeto
 
 - **Amostragem de Dados**: Foi realizada uma amostragem de **25% dos dados** com uma amostra reprodutível (usando `random_state`). O novo conjunto de dados foi composto por cerca de 190 mil registros.
@@ -150,6 +152,16 @@ A escolha dos algoritmos acima se deu principalmente pela escolha do algoritmo d
 | **Regressão Linear** | 8.542,00                 | 236.087.880,64             | 0,46       |
 
 Como pode ser observado na tabela acima, o algoritmo de **Random Forest** obteve o melhor desempenho nas métricas, e devido a isso e a sua robustez ele foi o algoritmo escolhido para desempenhar no projeto.
+
+Destarte, através desse projeto foi cumprido o desafio de fazer as previsões de preços de carros usados, usando um algoritmo de regressão que foi o Random Forest. O modelo com esse algoritmo teve um bom desempenho, sobretudo comparado aos outros citados acima, com score de 89%. Esse projeto foi uma oportunidade enriquecedora e muito satisfatória de colocar em prática os conhecimentos adquiridos nos cursos do programa.
+
+## Referências
+
+- GeeksforGeeks. Steps for Mastering Exploratory Data Analysis (EDA). Disponível em: https://www.geeksforgeeks.org/steps-for-mastering-exploratory-data-analysis-eda-steps/
+
+- Scikit-learn. Scikit-learn: Machine Learning in Python. Disponível em: https://scikit-learn.org/stable/
+
+- DataCamp. Introduction to SHAP Values: Machine Learning Interpretability. Disponível em: https://www.datacamp.com/tutorial/introduction-to-shap-values-machine-learning-interpretability
 
 
   
