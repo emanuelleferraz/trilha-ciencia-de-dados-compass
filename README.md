@@ -375,3 +375,48 @@ Hobbies:
   - **Avaliação e Métricas do Modelo**: Após o treinamento e previsão, foi feito a avaliação da performance do modelo através das métricas de `Score`, `Mean Squared Error` e `Mean Absolute Error`.
 
   - **Shap Values**: Por último, foi pedido que avaliassemos as variáveis que mais impactaram no modelo, através da técnica de XAI chamada *SHAP VALUES* obtive as duas variáveis mais importantes para o modelo.
+
+ ### Sprint 6
+ Durante a Sprint 06, foram explorados os seguintes cursos:
+  - **Curso de Processamento de Linguagem Natural**: Neste curso, foram abordadas diferentes técnicas de processamento de linguaguem natural, utilizando diferentes bibliotecas como Spacy e NLTK. Dentre os contéudos de NLP, também foram abordados análise de sentimentos, ML e DL na prática com NLP, Transformers, Modelagem de Tópicos com Bert e NLP com Spark.
+
+    - **Seção 3: NLP com Spacy**: Nessa seção, o processamento de linguagem natural foi realizado com **spacy**, que se destacou pelo desempenho e robustez, especialmente na tokenização, lematização, reconhecimento de entidades nomeadas (NER) e análise sintática. 
+
+    - **Seção 4: NLP com NLTK**: Foi explorado o uso do **NLTK**, uma biblioteca mais acadêmica e modular, focando em técnicas de tokenização, stemming, lematização e análise gramatical.  
+
+    - **Seção 6: Machine Learning e Deep Learning na prática com NLP**: Foram aplicados modelos de **Machine Learning** e **Deep Learning** em NLP.  
+
+      - Na parte de **ML**, foi utilizado um modelo de **Random Forest** para tarefas de classificação.  
+      - Já na parte de **DL**, foi explorada uma **rede neural** para processamento de texto.  
+
+    - **Seção 7: Análise de Sentimentos**: Foram abordadas diferentes abordagens para análise de sentimentos, utilizando:  
+
+      - **LSTM**
+      - **VADER**  
+      - **BERT**  
+
+    Comparou-se a eficiência desses modelos na categorização de sentimentos em textos.  
+
+    - **Seção 8: Introdução a Transformers, GPT e Bert**: Essa seção trouxe uma visão geral sobre **Transformers**, com foco em **BERT** e **GPT**. Além disso, foram realizadas atividades práticas, incluindo:  
+
+      - **Geração de textos**  
+      - **Resumo automático de textos**  
+      - **Preenchimento de lacunas**  
+      - **Perguntas e respostas** 
+    
+    - **Seção 9: Modelagem de Tópicos com BERT**: Foi explorada a modelagem de tópicos utilizando **BERT**, destacando sua capacidade de agrupar textos de maneira semântica e identificar padrões em grandes volumes de dados.  
+
+    - **Seção 10: NLP com Spark no Databricks**: Introdução ao **NLP com Spark**, utilizando o **Databricks** para processamento distribuído de grandes volumes de dados textuais, aplicando técnicas como tokenização, vetorização e modelos de NLP escaláveis.  
+
+
+  - **Curso de MLOps**: Neste curso, foram abordadas técnicas e ferramentas para a operacionalização de modelos de Machine Learning, com foco no uso do **Jupyter Lab** e do **MLflow** para o desenvolvimento, monitoramento e implantação de modelos. 
+
+    - **Seção 4: Criação e Registrando Modelos**: Foi realizado o treinamento de modelos dentro do **Jupyter Lab**, utilizando o **MLflow** para registrar e visualizar experimentos e métricas. Os modelos foram salvos e puderam ser visualizados tanto:  
+
+      - **Na interface do MLflow**, permitindo análise detalhada dos experimentos e comparação entre versões do modelo.  
+      - **No diretório local**, garantindo acesso direto aos arquivos gerados para futuras execuções e reutilização dos modelos. 
+
+    - **Seção 5: Servindo Modelos on Premise/Local**: Além do desenvolvimento e rastreamento dos modelos, foi realizada a **implantação** de um dos modelos treinados, demonstrando como disponibilizá-lo para uso em produção.  
+
+
+ 
