@@ -237,10 +237,11 @@ Posteriormente, foi ensinado como fazer a conversão do BGR para RGB e também f
     <img src="./evidencias/curso reconhecimento facial/face-detection.png" alt="FaceRecognition" width="300">
 </p>
 
-- **Face Recognition com Machine Learning**: Para fazer a detecção com machine learning houve o uso do **Haar Cascade Classifier** para detecção e extração de rostos em imagens e vídeos, separados por gênero feminino e masculino.
+- **Face Recognition com Machine Learning**: Para fazer a detecção com machine learning houve o uso do **Haar Cascade Classifier** para detecção e extração de rostos em imagens e vídeos, separados por gênero feminino e masculino. Além disso, um dos tópicos interessantes foi a utilização do Eigen Face, que é uma abordagem baseada em decomposição para o reconhecimento facial.
 
 <p align="center">
-    <img src="./evidencias/curso reconhecimento facial/male-female.png" alt="FaceRecognition" width="600">
+    <img src="./evidencias/curso reconhecimento facial/male-female.png" alt="FaceRecognition" width="500">
+    <img src="./evidencias/curso reconhecimento facial/eigen.png" alt="FaceRecognition" width="500">
 </p>
 
 ## 🏆 Certificados
