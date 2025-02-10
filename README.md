@@ -35,6 +35,7 @@ Hobbies:
 3. [Sprint 3](./Sprint%2003/README.md)
 4. [Sprint 4](./Sprint%2004/README.md)
 5. [Sprint 5](./Sprint%2005/README.md)
+6. [Sprint 6](./Sprint%2006/README.md)
 
 
 
