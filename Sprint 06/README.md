@@ -206,7 +206,7 @@ O modelo possui mais registros pois a execução foi através de um looping aume
     <img src="./evidencias/curso mlops/matriz_rf2.png" alt="Matriz de Confusão" width="300">
     <img src="./evidencias/curso mlops/matriz_rf3.png" alt="Matriz de Confusão" width="300">
     <img src="./evidencias/curso mlops/matriz_rf4.png" alt="Matriz de Confusão" width="300">
-    <img src="./evidencias/curso mlops/matriz_rf5.png1" alt="Matriz de Confusão" width="300">
+    <img src="./evidencias/curso mlops/matriz_rf5.png" alt="Matriz de Confusão" width="300">
 </p>
 
 Melhor modelo:
@@ -237,3 +237,18 @@ Posteriormente, foi ensinado como fazer a conversão do BGR para RGB e também f
 <p align="center">
     <img src="./evidencias/curso reconhecimento facial/male-female.png" alt="FaceRecognition" width="600">
 </p>
+
+## 🏆 Certificados
+
+Segue abaixo os certificados obtidos nos cursos da Sprint 06:
+
+1. **Processamento de Linguagem Natural**
+![Certificado 1](./certificados/Curso%20Formação%20de%20Processamento%20de%20Linguagem%20Natural.jpg)  
+
+2. **Reconhecimento Facial**
+![Certificado 2](./certificados/Curso%20Face%20Recognition%20with%20Machine%20Learning.jpg)
+
+3. **MLOps**
+![Certificado 3](./certificados/Curso%20MLops.jpg)  
+
+
