@@ -3,6 +3,7 @@
 Nessa Sprint 06, a trilha foi dividida entre 3 cursos, sendo eles: **Formação Processamento de Linguagem Natural, LLMs e GenAI**, **MLOps: Implatação e Operação de Modelos de Machine Learning** e **Face Recognition with Machine Learning**.
 
 ## Link do Vídeo
+https://compasso-my.sharepoint.com/:v:/r/personal/emanuelle_lima_pb_compasso_com_br/Documents/emanuelle.lima-sprint06.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=f59e7y
 ---
 
 # 📝 Exercícios
@@ -231,6 +232,10 @@ O curso de Face Recognition foi bem interessante, abordando temas desde a detec�
 </p>
 
 Posteriormente, foi ensinado como fazer a conversão do BGR para RGB e também foi ensinado sobre a transformação GrayScale, essa que ajuda bastante ao fazer o reconhecimento facial. Além disso, também foi feito o *"crop"* dos rostos e marcado com retângulo verde, como uma forma de demonstrar como seria feito posteriormente com machine learning. O mesmo processo foi realizado com vídeos e utilizei o novo trailer de Quarteto Fantastico para testar e funcionou muito bem!
+
+<p align="center">
+    <img src="./evidencias/curso reconhecimento facial/face-detection.png" alt="FaceRecognition" width="300">
+</p>
 
 - **Face Recognition com Machine Learning**: Para fazer a detecção com machine learning houve o uso do **Haar Cascade Classifier** para detecção e extração de rostos em imagens e vídeos, separados por gênero feminino e masculino.
 
