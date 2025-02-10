@@ -176,7 +176,7 @@ O modelo possui mais registros pois a execução foi através de um looping aume
     <img src="./evidencias/curso mlops/matriz_rf2.png" alt="Matriz de Confusão" width="300">
     <img src="./evidencias/curso mlops/matriz_rf3.png" alt="Matriz de Confusão" width="300">
     <img src="./evidencias/curso mlops/matriz_rf4.png" alt="Matriz de Confusão" width="300">
-    <img src="./evidencias/curso mlops/matriz_rf5.png" alt="Matriz de Confusão" width="300">
+    <img src="./evidencias/curso mlops/matriz_rf5.png1" alt="Matriz de Confusão" width="300">
 </p>
 
 - O terceiro modelo a ser registrado foi utilizando o **Keras**:

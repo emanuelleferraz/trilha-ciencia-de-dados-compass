@@ -418,5 +418,25 @@ Hobbies:
 
     - **Seção 5: Servindo Modelos on Premise/Local**: Além do desenvolvimento e rastreamento dos modelos, foi realizada a **implantação** de um dos modelos treinados, demonstrando como disponibilizá-lo para uso em produção.  
 
+  - **Curso de Face Recognition**: Neste curso, foram exploradas técnicas de processamento de imagem e reconhecimento facial utilizando **OpenCV** e **Machine Learning**, abordando desde conceitos básicos de manipulação de imagens até a construção e treinamento de um modelo para reconhecimento facial.  
+
+    - **Seção 2: Processamento de Imagem com OpenCV**: Foram trabalhadas operações essenciais para manipulação e análise de imagens, incluindo:  
+        - Representação de imagens como **arrays de pixels**, entendendo valores e manipulação direta dos dados.  
+        - Exibição e conversão de cores (**BGR para RGB**), além de aplicação de tons de **cinza (grayscale)**.  
+        - Redimensionamento e **crop** de imagens para foco em regiões específicas.  
+        - **Detecção facial**, aplicando técnicas para identificar e demarcar rostos com caixas delimitadoras.  
+        - Aplicação das técnicas em **vídeos**, permitindo reconhecimento facial em tempo real.  
+    
+    - **Seção 3:Face Recognition com Machine Learning**: Foram exploradas técnicas específicas de machine learning para reconhecimento facial, sendo:
+        - Uso do **Haar Cascade Classifier** para detecção e extração de rostos em imagens e vídeos, separados por gênero feminino e masculino.  
+        - Organização e estruturação das imagens extraídas para treinamento.  
+        - Implementação do **EigenFace**, uma abordagem baseada em decomposição de imagens para reconhecimento facial.  
+        - **Treinamento do modelo** com os rostos extraídos para identificação precisa de indivíduos.  
+        - Realização de **previsões**, testando o modelo treinado para verificar sua eficácia em reconhecer rostos.  
+
+    - **Seção 4: Criando Sistema Web Para Face Recognition**: Por último, no curso foi criado um aplicativo capaz de realizar a detecção facial, incluindo a divisão por gênero feita na seção anterior. Para criar o app foi utilizado Python e Flask.
+
+
+
 
  
