@@ -437,7 +437,12 @@ Hobbies:
 
     - **Seção 4: Criando Sistema Web Para Face Recognition**: Por último, no curso foi criado um aplicativo capaz de realizar a detecção facial, incluindo a divisão por gênero feita na seção anterior. Para criar o app foi utilizado Python e Flask.
 
+ ### Sprint 7
+ Durante a sprint 07, foram explorados os seguintes cursos:
 
+ - **Amazon Bedrock, Amazon Q, AWS Generative AI**:
+
+  - **Amazon Bedrock**: Inicialmente no curso, foram realizadas requisições para gerar imagens a partir de modelos do Bedrock, utilizando uma função lambda para se comunicar com essa funcionalidade através de sua API. Essa função utilizava parâmetros de prompt e um parâmetro de teste para fazer requisições automatizadas de geração de imagens. O objetivo era garantir que o processo de requisição e resposta fosse eficiente e que as imagens geradas atendessem às especificações esperadas. Posteriormente, foi criada uma API Gateway para realizar as requisões, sendo essa conectada com a função lambda criada anteriormente.
 
 
  
