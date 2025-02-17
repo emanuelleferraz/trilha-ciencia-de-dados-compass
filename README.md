@@ -442,7 +442,7 @@ Hobbies:
 
  - **Amazon Bedrock, Amazon Q, AWS Generative AI**:
 
-  - **Amazon Bedrock**: Inicialmente no curso, foram realizadas requisições para gerar imagens a partir de modelos do Bedrock, utilizando uma função lambda para se comunicar com essa funcionalidade através de sua API. Essa função utilizava parâmetros de prompt e um parâmetro de teste para fazer requisições automatizadas de geração de imagens. O objetivo era garantir que o processo de requisição e resposta fosse eficiente e que as imagens geradas atendessem às especificações esperadas. Posteriormente, foi criada uma API Gateway para realizar as requisões, sendo essa conectada com a função lambda criada anteriormente.
+  - **Amazon Bedrock**: Inicialmente no curso, foram realizadas requisições para gerar imagens a partir de modelos do Bedrock, utilizando uma função lambda para se comunicar com essa funcionalidade através de sua API. Essa função utilizava parâmetros de prompt e um parâmetro de teste para fazer requisições automatizadas de geração de imagens. O objetivo era garantir que o processo de requisição e resposta fosse eficiente e que as imagens geradas atendessem às especificações esperadas. Posteriormente, foi criada uma API Gateway para realizar as requisões, sendo essa conectada com a função lambda criada anteriormente. Ademais, o mesmo foi feito, porém com modelos de LLM's que funcionavam como um chatbot e um chat de perguntas e respostas. Para isso, além do backend feito com o bedrock, foi feito também o frontend utilizando python + streamlit.
 
 
  
