@@ -95,7 +95,7 @@ Assim como no projeto anterior com geração de imagens, foi criada uma API Gate
     <img src="./evidencias/curso bedrock/chabot.png" alt="Frontend" width="600">
 </p> 
 
-O segundo projeto, foi a criação de um site de **perguntas e respostas (Q&A)**, também utilizando o amazon bedrock no backend para conectar com os modelos desse serviço. O modelo que eu escolhi, diferentemnte do professor, foi o usado anteriormente no curso para sumarização, o *Claude Haiku 3*. Nesse caso, a função do projeto era responder perguntas a partir de um documento PDF, ou do link dele como foi o caso do exemplo em questão. Através do PDF, é possível fazer perguntas e as respostas serão procuradas e baseadas nesse arquivo em questão. O fronted também foi criado usando o streamlit, abaixo é possível ver um exemplo de pergunta utilizando esse serviço criado.
+O segundo projeto, foi a criação de um site de **perguntas e respostas (Q&A)**, também utilizando o amazon bedrock no backend para conectar com os modelos desse serviço. O modelo que eu escolhi, diferentemente do professor, foi o usado anteriormente no curso para sumarização, o *Claude Haiku 3*. Nesse caso, a função do projeto era responder perguntas a partir de um documento PDF, ou do link dele como foi o caso do exemplo em questão. Através do PDF, é possível fazer perguntas e as respostas serão procuradas e baseadas nesse arquivo em questão. O fronted também foi criado usando o streamlit, abaixo é possível ver um exemplo de pergunta utilizando esse serviço criado.
 
 <p align="center">
     <img src="./evidencias/curso bedrock/qa-front.png" alt="Frontend" width="600">
