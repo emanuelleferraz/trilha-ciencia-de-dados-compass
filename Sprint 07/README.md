@@ -3,7 +3,7 @@
 Nessa Sprint 07, a trilha foi dividida entre 2 cursos, sendo eles: **Amazon Bedrock, Amazon Q & AWS Generative AI [HANDS-ON]** e **Credit Risk Modeling in Python**.
 
 ## Link do Vídeo
-
+https://compasso-my.sharepoint.com/:v:/r/personal/emanuelle_lima_pb_compasso_com_br/Documents/emanuelle.lima-sprint07.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ldjqah
 
 ---
 
@@ -29,8 +29,15 @@ Durante o curso, não foram realizados diretamente exercícios, dessa forma, ach
 
 
 ### Credit Risk Modeling in Python
+Durante o curso, não foram realizados diretamente exercícios, dessa forma, achei interessante fazer o upload das funções criadas nas aulas. Segue abaixo os arquivos divididos pela seção do curso:
 
+1. **Modelagem de Risco de Crédito**:
 
+    ➡️ Confira o arquivo do [pré-processamento](./exercicios/curso%20credit%20risk/credit_risk_preprocessing.ipynb).
+
+    ➡️ Confira o arquivo do [modelo PD](./exercicios/curso%20credit%20risk/pd-model.ipynb).
+
+    ➡️ Confira o arquivo dos [modelos LGD e EAD](./exercicios/curso%20credit%20risk/lgd-ead-model.ipynb).
 
 
 # 📂 Evidências
@@ -101,9 +108,36 @@ O segundo projeto, foi a criação de um site de **perguntas e respostas (Q&A)**
     <img src="./evidencias/curso bedrock/qa-front.png" alt="Frontend" width="600">
 </p> 
 
+### Credit Risk Modeling in Python
+Neste curso, foram exploradas abordagens de negócios e machine learning para avaliação de risco de crédito, incluindo conceitos fundamentais como **Probabilidade de Inadimplência (PD)**, **Perda Dada a Inadimplência (LGD)** e **Exposição na Inadimplência (EAD)**.
+
+- Um dos destaques foi a criação da variável alvo good_bad, que classifica os clientes em bons (1) ou maus pagadores (0), auxiliando na decisão de concessão de crédito.
+
+<p align="center"> <img src="./evidencias/curso credit-risk/ev2.png" alt="good_bad" width="500"> </p>
+Durante o pré-processamento, utilizamos a variável grade como exemplo, calculando sua proporção em relação à variável alvo.
+
+<p align="center"> <img src="./evidencias/curso credit-risk/ev3.png" alt="proporcao_grade" width="400"> </p>
+
+ - Além disso, foi calculado o Peso da Evidência (Weight of Evidence - WoE) para essa e outras variáveis do modelo, permitindo transformar dados categóricos em uma escala mais adequada para modelagem preditiva.
+
+<p align="center"> <img src="./evidencias/curso credit-risk/ev4.png" alt="woe_grade" width="500"> </p>
+
+- Por fim, foi gerado o gráfico de Peso da Evidência por Grade de Crédito, que demonstra a relação entre a qualidade da grade e o risco de inadimplência.
+
+<p align="center"> <img src="./evidencias/curso credit-risk/ev1.png" alt="woe_por_grade" width="500"> </p>
+
+A tendência crescente indica que quanto melhor a grade de crédito, maior o WoE, sugerindo menor risco de inadimplência. Já grades mais baixas (D, E, F, G) apresentam valores negativos, indicando maior risco. Isso é amplamente utilizado em modelos de Machine Learning e scorecards de crédito, pois o WoE transforma variáveis categóricas em uma escala contínua, facilitando a modelagem estatística e melhorando a interpretabilidade de modelos como Regressão Logística. Esse processo foi realizado posteriormente com todas as features do modelo (PD).
+
+
 ## 🏆 Certificados
 
 Segue abaixo os certificados obtidos nos cursos da Sprint 07:
+
+1. **Amazon Bedrock, Amazon Q & AWS Generative AI**
+![Certificado 1](./certificados/Curso%20Amazon%20Bedrock.jpg)  
+
+2. **Credit Risk Modeling in Python**
+![Certificado 2](./certificados/Curso%20Risco%20de%20Credito.jpg)
 
 
 
