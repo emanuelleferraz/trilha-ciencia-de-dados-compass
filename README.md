@@ -36,6 +36,8 @@ Hobbies:
 4. [Sprint 4](./Sprint%2004/README.md)
 5. [Sprint 5](./Sprint%2005/README.md)
 6. [Sprint 6](./Sprint%2006/README.md)
+7. [Sprint 7](./Sprint%2007/README.md)
+8. [Sprint 8](./Sprint%2008/README.md)
 
 
 
@@ -446,6 +448,29 @@ Hobbies:
 
 
   - **Credit Risk**: Neste curso, foram aprendidos conceitos teóricos e práticos sobre risco de crédito. Nele, aprendemos que o risco de crédito representa a possibilidade de um tomador de empréstimo não cumprir suas obrigações financeiras, impactando credores e o sistema financeiro. Ele é medido por três componentes: **Probabilidade de Inadimplência (PD)**, **Perda Dada a Inadimplência (LGD)** e **Exposição na Inadimplência (EAD)**, que juntos determinam a Perda Esperada (EL). Regulamentações como Basileia II estabelecem requisitos mínimos de capital para mitigar esse risco, garantindo a estabilidade bancária. No Acordo de Basileia II, o capital exigido para exposições de varejo é 6% do total da exposição. A gestão eficiente do risco de crédito é essencial para a segurança do setor financeiro.
+
+ ### Sprint 8
+ Durante a Sprint 08, foi desenvolvido o projeto de desafio 3 que consiste em uma **Modelagem de Risco de Crédito**. O projeto foi desenvolvido com base em um conjunto de dados contendo informações históricas de clientes, como características demográficas, histórico de crédito, renda, entre outras. O pipeline de machine learning inclui as seguintes etapas:
+
+ - **Visualização dos Datasets**: Inicialmente, realizamos uma análise exploratória dos datasets disponíveis para entender a estrutura e a distribuição dos dados.
+
+ - **Remoção de Features**: Com base na análise do Pandas Profiling, identificamos e removemos features redundantes ou pouco informativas, otimizando o conjunto de dados para modelagem.
+
+ - **Engenharia de Atributos**: Criamos novas features e transformamos as existentes para melhor capturar informações relevantes para a previsão de risco de crédito.
+
+ - **Análise Exploratória**: Realizamos uma análise detalhada dos datasets principais (`application_train`, `bureau`, `credit_card_balance`, `previous_application`) para identificar padrões, correlações e possíveis outliers.
+
+ - **Merge dos Datasets**: Combinamos os datasets em um único conjunto de dados consolidado, garantindo que todas as informações relevantes fossem utilizadas no treinamento do modelo.
+
+ - **Pré-Processamento dos Dados**: Utilizamos um pipeline de pré-processamento para normalizar, codificar e tratar valores faltantes, garantindo que os dados estivessem prontos para o treinamento do modelo.
+
+ - **Treinamento dos Modelos**: Treinamos dois modelos de machine learning: Regressão Logística e Gradient Boosting. O modelo de Gradient Boosting apresentou melhor desempenho.
+
+ - **Avaliação e Métricas**: Avaliamos os modelos utilizando métricas como Accuracy, Recall, Precision, F1-Score, Curva ROC e Matriz de Confusão. O modelo de **Gradient Boosting** demonstrou superioridade em todas as métricas.
+
+ - **Teste com Novos Dados**: Por fim, testamos o modelo com novos dados para validar sua capacidade de generalização e garantir que ele performa bem em cenários reais.
+
+ **Resultados**: O Gradient Boosting obteve melhor desempenho entre os algoritmos, com valor de AUC de *0.72* e bons números de Acurácia, Precisão, Recall e F1-Score. Porém, por a classe ser debalanceada, ele performou muito bem para a classe majoritária, mas não tão bem para a classe minoritária. Isso foi reforçado ao analisar as previsões com um novo conjunto de dados.
 
 
  
