@@ -472,5 +472,6 @@ Hobbies:
 
  **Resultados**: O Gradient Boosting obteve melhor desempenho entre os algoritmos, com valor de AUC de *0.72* e bons números de Acurácia, Precisão, Recall e F1-Score. Porém, por a classe ser debalanceada, ele performou muito bem para a classe majoritária, mas não tão bem para a classe minoritária. Isso foi reforçado ao analisar as previsões com um novo conjunto de dados.
 
+ ### Sprint 9
 
- 
+  -A sprint 9 foi dedicada aos estudos para a certificação **AWS Cloud Practitioner**, completando os cursos AWS Cloud Practitioner Essentials que mostrou uma visão geral dos principais serviços da AWS e Official Practice Course realizados na **AWS Skill Builder**, além do curso preparatório da Udemy (André Iacono). Para validar o conhecimento, *realizei 6 simulados*, identificando pontos fortes e áreas que exigem revisão antes do exame oficial.
