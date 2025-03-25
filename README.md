@@ -38,8 +38,7 @@ Hobbies:
 6. [Sprint 6](./Sprint%2006/README.md)
 7. [Sprint 7](./Sprint%2007/README.md)
 8. [Sprint 8](./Sprint%2008/README.md)
-9. [Sprint 9](./Sprint%2009%20&%2010/README.md)
-10.[Sprint 10](./Sprint%2009%20&%2010/README.md)
+9. [Sprint 9 & 10](./Sprint%2009%20&%2010/README.md)
 
 
 ## 📚 Conteúdo de Aprendizado
@@ -475,4 +474,4 @@ Hobbies:
 
  ### Sprint 9
 
-  -A sprint 9 foi dedicada aos estudos para a certificação **AWS Cloud Practitioner**, completando os cursos AWS Cloud Practitioner Essentials que mostrou uma visão geral dos principais serviços da AWS e Official Practice Course realizados na **AWS Skill Builder**, além do curso preparatório da Udemy (André Iacono). Para validar o conhecimento, *realizei 6 simulados*, identificando pontos fortes e áreas que exigem revisão antes do exame oficial.
+  - A sprint 9 foi dedicada aos estudos para a certificação **AWS Cloud Practitioner**, completando os cursos AWS Cloud Practitioner Essentials que mostrou uma visão geral dos principais serviços da AWS e Official Practice Course realizados na **AWS Skill Builder**, além do curso preparatório da Udemy (André Iacono). Para validar o conhecimento, *realizei 6 simulados*, identificando pontos fortes e áreas que exigem revisão antes do exame oficial.
