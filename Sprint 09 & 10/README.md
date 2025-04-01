@@ -35,6 +35,30 @@ Devido ao formato diferente das sprints 09 e 10, as evidências da sprint 09 ser
     <img src="./evidencias/sprint 9/simulado6.png" alt="Simulado" width="500">
 </p>
 
+### Sprint 10
+
+Devido ao formato diferente das sprints 09 e 10, as evidências da sprint 10 serão baseadas nos cursos de gamificação realizados no Skill Builder, sendo o **SimuLearn** e o **CloudQuest**.
+
+ - **AWS SimuLearn**: é uma plataforma de aprendizagem imersiva desenvolvida pela *AWS* que combina simulações práticas com conteúdo educacional afim de capacitar para as certificações e em cloud computing. O *SimuLearn* segue a premissa do "aprender fazendo" e dessa forma o conteúdo de aprendizado era definido por:
+
+    - Etapa de **Reunião** com o cliente, na qual você deve indicar o(s) serviço(s) ideal(ais) baseado no problema aprensentado durante a reunião.
+
+      <p align="center">
+         <img src="./evidencias/sprint 10/simulearn-reuniao.png" alt="Simulearn" width="500">
+     </p>
+
+     - Etapas de **Aprender**, na qual você entendia o serviço e seu objetivo. Posteriormente você passa por duas etapas finais na qual deve-se desenvolver as atividades na plataforma da AWS. A primeira delas é a de **Prática**, que consta com um tutorial visual e textual na qual você aprender a desenvolver um determinado serviço na plataforma. Por último, tem a etapa de **DIY** que você deve realizar uma atividade sem auxílio de tutorial.
+
+    <p align="center">
+       <img src="./evidencias/sprint 10/simulearn-aprender.png" alt="Simulado" width="500">
+       <img src="./evidencias/sprint 10/simulearn-pratica.png" alt="Simulado" width="500">
+       <img src="./evidencias/sprint 10/simulearn-diy.png" alt="Simulado" width="500">
+    </p>
+
+ Como o curso do *SimuLearn* não possui certificado de conclusão, segue abaixo a evidência que mostra as 12 lições completas.
+<p align="center">
+    <img src="./evidencias/sprint 10/simulearn-completed.png" alt="Simulearn" width="400">
+</p>
 
 ## 🏆 Certificados
 
