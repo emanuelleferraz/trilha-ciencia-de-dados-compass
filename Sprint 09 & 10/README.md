@@ -50,14 +50,26 @@ Devido ao formato diferente das sprints 09 e 10, as evidências da sprint 10 ser
      - Etapas de **Aprender**, na qual você entendia o serviço e seu objetivo. Posteriormente você passa por duas etapas finais na qual deve-se desenvolver as atividades na plataforma da AWS. A primeira delas é a de **Prática**, que consta com um tutorial visual e textual na qual você aprender a desenvolver um determinado serviço na plataforma. Por último, tem a etapa de **DIY** que você deve realizar uma atividade sem auxílio de tutorial.
 
     <p align="center">
-       <img src="./evidencias/sprint 10/simulearn-aprender.png" alt="Simulado" width="500">
-       <img src="./evidencias/sprint 10/simulearn-pratica.png" alt="Simulado" width="500">
-       <img src="./evidencias/sprint 10/simulearn-diy.png" alt="Simulado" width="500">
+       <img src="./evidencias/sprint 10/simulearn-aprender.png" alt="Simulado" width="400">
+       <img src="./evidencias/sprint 10/simulearn-pratica.png" alt="Simulado" width="400">
+       <img src="./evidencias/sprint 10/simulearn-diy.png" alt="Simulado" width="400">
     </p>
 
  Como o curso do *SimuLearn* não possui certificado de conclusão, segue abaixo a evidência que mostra as 12 lições completas.
 <p align="center">
     <img src="./evidencias/sprint 10/simulearn-completed.png" alt="Simulearn" width="400">
+</p>
+
+ - **CloudQuest**: como o SimuLearn, o *CloudQuest* é uma plataforma gamificada de aprendizagem imersiva para a certificação *Cloud Practitioner*. Assim como o primeiro, segue um conceito de "aprender jogando", dessa forma, você criava o seu personagem que era inserido em uma cidade e de acordo com seu avanço completando os exercícios da *AWS* você ajudava a não só resolver os problemas dos habitantes como a construir diversos imóveis ou locais. ("Certificado" no tópico de Certificados abaixo)
+
+ <p align="center">
+    <img src="./evidencias/sprint 10/cloudquest.png" alt="CloudQuest" width="500">
+</p>
+
+ - Por último, na segunda semana da sprint, foi realizado um **simulado online** baseado na prova do *Cloud Practitioner* durante a reunião técnica, como uma forma de avaliação da sprint 10. Abaixo segue o resultado obtido:
+
+ <p align="center">
+    <img src="./evidencias/sprint 10/simulado-reuniao.png" alt="Simulado" width="600">
 </p>
 
 ## 🏆 Certificados
@@ -72,6 +84,9 @@ Segue abaixo os certificados obtidos nos cursos da Sprint 09:
 
 3. **Certificação Amazon AWS Cloud Practitioner**
 ![Certificado 3](./certificados/sprint%209/Certificado%20-%20Amazon%20AWS%20Certified%20Cloud%20Practitioner.jpg)
+
+4. **Certificação Amazon CloudQuest**
+![Certificado 4](./certificados/sprint%2010/Certificado%20CloudQuest.png)
 
 
 
