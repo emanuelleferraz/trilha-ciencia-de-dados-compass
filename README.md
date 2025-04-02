@@ -475,3 +475,7 @@ Hobbies:
  ### Sprint 9
 
   - A sprint 9 foi dedicada aos estudos para a certificação **AWS Cloud Practitioner**, completando os cursos AWS Cloud Practitioner Essentials que mostrou uma visão geral dos principais serviços da AWS e Official Practice Course realizados na **AWS Skill Builder**, além do curso preparatório da Udemy (André Iacono). Para validar o conhecimento, *realizei 6 simulados*, identificando pontos fortes e áreas que exigem revisão antes do exame oficial.
+
+ ### Sprint 10
+
+ - A sprint 10 foi dedicada a realização dos exercícios propostos nas plataformas de gamificação do **SimuLearn** e **CloudQuest** para aprimorar os conhecimentos já obtidos nos cursos anteriores a cerca dos serviços da *AWS* com o objetivo de conquistar a certificação *Amazon AWS Cloud Practitioner*. 
