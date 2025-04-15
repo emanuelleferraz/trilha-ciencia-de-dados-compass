@@ -479,3 +479,85 @@ Hobbies:
  ### Sprint 10
 
  - A sprint 10 foi dedicada a realização dos exercícios propostos nas plataformas de gamificação do **SimuLearn** e **CloudQuest** para aprimorar os conhecimentos já obtidos nos cursos anteriores a cerca dos serviços da *AWS* com o objetivo de conquistar a certificação *Amazon AWS Cloud Practitioner*. 
+
+
+# 📚 Links e Recursos para Ciência de Dados  
+
+## 🐍 **Python & Boas Práticas**  
+- **[PEP 8](https://peps.python.org/pep-0008/)** – Guia de estilo para código Python.  
+- **[PEP 20 (The Zen of Python)](https://peps.python.org/pep-0020/)** – Princípios filosóficos do Python.  
+- **[Python Poetry](https://python-poetry.org/)** – Gerenciador de dependências e empacotamento.  
+- **[FastAPI](https://fastapi.tiangolo.com/)** – Framework para criar APIs rápidas em Python.  
+
+## 📊 **Análise de Dados & EDA**  
+- **[SweetViz](https://github.com/fbdesignpro/sweetviz)** – Geração automática de relatórios de EDA.  
+- **[YData Profiling](https://github.com/ydataai/ydata-profiling)** – Perfilagem avançada de datasets.  
+- **[Mito](https://www.trymito.io/)** – Transforma planilhas em código Python.  
+- **[Steps for Mastering EDA](https://www.geeksforgeeks.org/steps-for-mastering-exploratory-data-analysis-eda-steps/)** – Passos essenciais para análise exploratória.  
+- **[A Data Scientist’s Guide to EDA](https://medium.com/towards-data-science/a-data-scientists-essential-guide-to-exploratory-data-analysis-25637eee0cf6)** – Guia prático para EDA.  
+
+## 🚀 **Machine Learning & Deep Learning**  
+- **[Scikit-learn RobustScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html)** – Normalização robusta de dados.  
+- **[Keras](https://keras.io/)** – Biblioteca para redes neurais.  
+- **[DeepLearning.AI](https://www.deeplearning.ai/)** – Cursos de IA e deep learning.  
+- **[Redes Neurais (Livro)](https://books.google.com.br/books/about/Redes_Neurais.html?hl=pt-BR&id=bhMwDwAAQBAJ&redir_esc=y)** – Conceitos fundamentais de redes neurais.  
+- **[Deep Learning: A Tempestade Perfeita](https://www.deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/)** – Livro sobre deep learning.  
+- **[Bagging vs Boosting](https://medium.com/@8ugomes/diferen%C3%A7as-entre-bagging-and-boosting-em-ci%C3%AAncia-de-dados-ae5cd0f672ce)** – Diferenças entre ensemble methods.  
+- **[PyCaret](https://pycaret.org/)** – AutoML em Python.  
+
+## 🔍 **Visualização de Dados**  
+- **[Python Graph Gallery](https://python-graph-gallery.com/)** – Exemplos de visualizações em Python.  
+- **[PyGWalker](https://github.com/Kanaries/pygwalker)** – Transforma DataFrames em UI interativa.  
+
+## 📜 **SQL & Bancos de Dados**  
+- **[Lost at SQL](https://lost-at-sql.therobinlord.com/)** – Jogo interativo para aprender SQL.  
+
+## 🤖 **MLOps & Engenharia de ML**  
+- **[Kedro](https://kedro.org/)** – Framework para pipelines de dados reprodutíveis.  
+- **[BentoML](https://www.bentoml.com/)** – Empacotamento e deploy de modelos.  
+- **[Optuna](https://optuna.readthedocs.io/en/stable/)** – Otimização de hiperparâmetros.  
+- **[Awesome MLOps](https://github.com/kelvins/awesome-mloops?tab=readme-ov-file)** – Lista de ferramentas MLOps.  
+- **[Neptune.ai](https://neptune.ai/vs)** – Plataforma para experiment tracking.  
+- **[3 Níveis de Maturidade em MLOps](https://medium.com/@arnaldog12/os-3-n%C3%ADveis-de-maturidade-de-mlops-de825a289ab7)** – Evolução de MLOps.  
+
+## ⚡ **Big Data & Processamento**  
+- **[Dask](https://www.dask.org/)** – Paralelismo para análise de dados.  
+- **[Pola.rs](https://pola.rs/)** – DataFrame rápido em Rust (alternativa ao Pandas).  
+
+## � **NLP & Transformers**  
+- **[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)** – Explicação visual de transformers.  
+- **[Attention in Transformers (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/attention-in-transformers-concepts-and-code-in-pytorch/)** – Curso sobre mecanismos de atenção.  
+- **[Paper: Attention Is All You Need](https://arxiv.org/pdf/1706.03762)** – Artigo original dos transformers.  
+- **[Transformers: Guia Introdutório](https://medium.com/kompa-data-ai/tranformers-um-guia-introdut%C3%B3rio-5c9416a5f512)** – Conceitos básicos de transformers.  
+
+## 🛠 **Ferramentas & Utilitários**  
+- **[Jira](https://www.atlassian.com/br/software/jira)** – Gerenciamento de projetos ágeis.  
+- **[Rancher Desktop](https://rancherdesktop.io/)** – Ambiente de containers local.  
+- **[Langfuse](https://langfuse.com/)** – Observability para LLMs.  
+- **[Langsmith (LangChain)](https://www.langchain.com/langsmith)** – Debugging para aplicações LLM.  
+
+## 📈 **Séries Temporais & Forecasting**  
+- **[Prophet (Facebook)](https://facebook.github.io/prophet/)** – Previsão de séries temporais.  
+- **[NeuralProphet](https://neuralprophet.com/)** – Extensão neural do Prophet.  
+- **[Forecasting: Principles and Practice](https://otexts.com/fpppg/)** – Livro sobre forecasting.  
+
+## 🎓 **Cursos & Aprendizado**  
+- **[StatQuest](https://statquest.org/)** – Vídeos didáticos sobre estatística e ML.  
+- **[Cassie Kozyrkov (YouTube)](https://www.youtube.com/@kozyrkov/featured)** – Ex-Cientista Chefe de Dados do Google.  
+- **[IBM Data Science (Coursera)](https://www.coursera.org/professional-certificates/ibm-data-science)** – Certificação em Ciência de Dados.  
+- **[Kaggle: Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning)** – Tutorial de ML intermediário.  
+
+## 🧠 **IA Generativa & LLMs**  
+- **[Prompting Guide](https://www.promptingguide.ai/pt)** – Guia de engenharia de prompts.  
+- **[NotebookLM (Google)](https://notebooklm.google/)** – Assistente de IA para anotações.  
+
+## 📝 **Artigos & Técnicas Avançadas**  
+- **[Data Leakage](https://medium.com/@andreycp17/data-leakage-o-que-%C3%A9-como-evitar-ba1fa8c9db70)** – O que é e como evitar vazamento de dados.  
+- **[Reconhecimento de Padrões: Eigenfaces](https://medium.com/@williangpessoa/reconhecimento-de-padr%C3%B5es-eigenfaces-e4cef8f04919)** – Técnica de visão computacional.  
+- **[Google ML Crash Course](https://developers.google.com/machine-learning?hl=pt-br)** – Introdução ao ML pelo Google.  
+
+## 🎲 **Algoritmos & Estruturas de Dados**  
+- **[The Algorithms (PT)](https://the-algorithms.com/pt)** – Implementações de algoritmos em várias linguagens.  
+
+## 🏆 **Benchmarks & Comparações**  
+- **[Pola.rs Benchmarks](https://pola.rs/posts/benchmarks/)** – Comparação de performance entre Polars e outras libs.  
